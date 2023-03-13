@@ -1,29 +1,1728 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 group-title="RTPM_2",РЕН ТВ HD
-rtmp://5.182.231.251//2024
-#EXTINF:-1 group-title="RTPM_2",ДИКАЯ ОХОТА
-rtmp://5.182.231.251//2004
-#EXTINF:-1 group-title="RTPM_2",ДИКАЯ РЫБАЛКА
-rtmp://5.182.231.251//2005
-#EXTINF:-1 group-title="RTPM_2",DTX
-rtmp://5.182.231.251//2006
-#EXTINF:-1 group-title="RTPM_2",ОХОТА И РЫБАЛКА
-rtmp://5.182.231.251//2019
-#EXTINF:-1 group-title="RTPM_2",ТЕХНО 24
-rtmp://5.182.231.251//2023
-#EXTINF:-1 group-title="RTPM_2",H2 HD
-rtmp://5.182.231.251//2033
-#EXTINF:-1 group-title="RTPM_2",ТЕЛЕПУТЕШЕСТВИЯ
-rtmp://5.182.231.251//2051
-#EXTINF:-1 group-title="RTPM_2",ЖИВАЯ ПРИРОДА HD
-rtmp://5.182.231.251//2074
-#EXTINF:-1 group-title="RTPM_2",ЖИВАЯ ПЛАНЕТА
-rtmp://5.182.231.251//2101
-#EXTINF:-1 group-title="RTPM_2",Investigation Discovery HD
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img/1011.png",VIP Comedy HD 176.222.
+http://176.222.190.76/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img/1011.png",VIP Comedy HD
+http://myott.top/stream/K3TLKSX4EA/201.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="vip-comedy-cee" tvg-logo="https://i.imgur.com/r9n13rP.jpg",VIP Comedy HD 193.239
+http://193.239.75.218:8000/play/a07g
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="vip-megahit-cee" tvg-logo="https://i.imgur.com/C7TWQHT.jpg",VIP Megahit HD 193.239
+http://193.239.75.218:8000/play/a087
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="vip-megahit" tvg-logo="https://picon.ml/vip-megahit.png",VIP Megahit HD 176.222.
+http://176.222.190.76/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-id="vip-megahit" tvg-logo="https://picon.ml/vip-megahit.png",VIP Megahit HD
+http://myott.top/stream/K3TLKSX4EA/200.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="vip-premiere" tvg-logo="https://i.imgur.com/ms8WL7A.png",VIP Premiere 176.222.
+http://176.222.190.76/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-id="vip-premiere" tvg-logo="https://i.imgur.com/ms8WL7A.png",VIP Premiere
+http://myott.top/stream/K3TLKSX4EA/202.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinopremiera-hd" tvg-logo="https://i.imgur.com/qnVZKUN.png",Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinopremiera-hd" tvg-logo="https://i.imgur.com/qnVZKUN.png",Кинопремьера HD
+http://85.11.144.9:4222/Kinopremiera?token=test
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://i.imgur.com/qnVZKUN.png",Кинопремьера HD
+http://myott.top/stream/K3TLKSX4EA/160.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinosemiya" tvg-rec="" tvg-logo="https://i.imgur.com/dPcKpvF.png",Киносемья
+http://178.124.210.172:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinosemiya" tvg-rec="" tvg-logo="https://i.imgur.com/dPcKpvF.png",Киносемья
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/9228/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinosemiya" tvg-rec="" tvg-logo="https://i.imgur.com/dPcKpvF.png",Киносемья
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/9228/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://i.imgur.com/dPcKpvF.png",Киносемья
+http://myott.top/stream/K3TLKSX4EA/170.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="kinosvidanie" tvg-logo="https://i.imgur.com/TIaJY6M.png",Киносвидание
+http://178.124.210.172:8000/play/a00lcv/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="kinosvidanie" tvg-logo="https://i.imgur.com/TIaJY6M.png",Киносвидание iptvmedia
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/266557
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-shift="" tvg-logo="https://i.imgur.com/TIaJY6M.png",Киносвидание
+http://myott.top/stream/K3TLKSX4EA/171.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinomiks" tvg-rec="" tvg-logo="https://i.imgur.com/CIuW30b.png",Киномикс HD
+http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinomiks" tvg-rec="7" tvg-logo="https://i.imgur.com/CIuW30b.png",Киномикс HD
+http://myott.top/stream/K3TLKSX4EA/133.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/T0XYKou.png",Кинохит
+http://178.124.210.172:8000/play/a00g1d/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/T0XYKou.png",Кинохит
+http://195.191.208.86:80/jwt/ffea6212b21c2df004d62bb5a79efc306107cb4e-534-0-24h535526-None-1542662012-1585978010--HWklSogrMYx6LbP5IGUFECZMdRpSfa0GwZi71zp7aD0-0
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/T0XYKou.png",Кинохит
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://i.imgur.com/ua2S2gt.png",Кинокомедия
+http://myott.top/stream/K3TLKSX4EA/265.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/kamedi.png",Камеди HD
+http://185.23.80.28:8080/Camedi/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/dzQAKRM.png",Киноужас HD
+rtmp://5.182.231.251//2056
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://i.imgur.com/dzQAKRM.png",Киноужас HD
+http://myott.top/stream/K3TLKSX4EA/278.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="nst" tvg-logo="https://iptvz.cf/nst.png",НСТ
+http://185.23.80.28:8080/NST/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="nst" tvg-logo="https://iptvz.cf/nst.png",НСТ
+http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1 group-title="Кіно"  tvg-rec="" tvg-logo="https://picon.ml/strashnoe-hd.png",Страшное HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/7247/index.m3u8
+#EXTINF:-1 group-title="Кіно"  tvg-rec="" tvg-logo="https://picon.ml/strashnoe-hd.png",Страшное HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/7247/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="muzhskoe-kino" tvg-rec="" tvg-logo="https://i.imgur.com/P7HhN7Z.png",Мужское кино
+http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="muzhskoe-kino" tvg-rec="7" tvg-logo="https://i.imgur.com/P7HhN7Z.png",Мужское кино
+http://myott.top/stream/K3TLKSX4EA/107.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kino-tv" tvg-logo="https://i.imgur.com/bAI9Hmb.png",Кино ТВ 5.182.23
+rtmp://5.182.231.251//2097
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/bAI9Hmb.png",Кино ТВ
+http://194.113.234.110:6056
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/bAI9Hmb.png",Кино ТВ
+http://185.23.80.28:8080/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="cinema-ru" tvg-rec="" tvg-logo="https://i.imgur.com/0ilaEYs.png",Cinema 176.222.
+http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="cinema-ru" tvg-rec="7" tvg-logo="https://i.imgur.com/0ilaEYs.png",Cinema
+http://myott.top/stream/K3TLKSX4EA/62.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/XZGWX4K.png",FAN
+http://185.23.80.28:8080/FAN/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/XZGWX4K.png",FAN
+http://193.33.240.8:8080/fan/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="kinopokaz" tvg-logo="https://iptvz.cf/kinopokaz.png",Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Hollywood.png",Hollywood
+http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Hollywood.png",Hollywood
+http://193.239.75.218:8000/play/a01z
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/hollywood-hd.png",Hollywood HD
+http://78.26.128.16:8081/406/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/hollywood-hd.png",Hollywood HD
+http://myott.top/stream/K3TLKSX4EA/268.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/ostrosiuzhetnoe-hd.png",Остросюжетное HD
+http://myott.top/stream/K3TLKSX4EA/214.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://iptvz.cf/ostrosiuzhetnoe-hd.png",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://iptvz.cf/blokbaster.png",Блокбастер HD
+http://185.23.80.28:8080/Blockbaster/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="-3" tvg-logo="https://iptvz.cf/khit.png",Хит
+http://185.23.80.28:8080/Xit/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/shokiruyushchee.png",Шокирующее HD
+http://myott.top/stream/K3TLKSX4EA/75.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/2732.png",Премиальное HD
+http://myott.top/stream/K3TLKSX4EA/421.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="http://epg.it999.ru/img/2732.png",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/izGmp6F.png",Trash TV
+https://livetv.mylifeisgood.ml/channels/trash
+#EXTINF:-1 group-title="Кіно" tvg-id="pro-lyubov" tvg-logo="https://picon.ml/pro-lyubov.png",Про Любов
+http://185.23.80.28:8080/ProLyubov/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/pItvrHu.png" tvg-id="tv1000-cee",TV 1000 HD CEE
+http://89.254.128.5:22280/tv1000/video.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/pItvrHu.png" tvg-id="tv1000-cee",TV 1000 HD CEE 193.239
+http://193.239.75.218:8000/play/a06z
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="tv1000",TV 1000 HD
+http://176.222.190.76/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-id="tv1000",TV 1000 HD
+http://myott.top/stream/K3TLKSX4EA/110.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/tv1000-worldkino.png" tvg-id="tv1000-worldkino",TV1000 World Kino
+http://78.26.128.59:9876/play/144/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/08RadQe.png" tvg-id="tv1000-action-cee",TV 1000 Action CEE
+http://193.239.75.218:8000/play/a086
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/08RadQe.png" tvg-id="tv1000-action-cee",TV 1000 Action CEE
+http://89.254.128.5:22280/tv1000_action/video.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/WJrRBs3.png" tvg-id="tv1000-action",TV 1000 Action
+http://45.143.108.104:80/TV1000ACTION_HD/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://i.imgur.com/WJrRBs3.png" tvg-id="tv1000-action",TV 1000 Action
+http://myott.top/stream/K3TLKSX4EA/100.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-premiere-hd.png" tvg-id="bcu-premiere",Premiere
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11039/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-premiere-hd.png" tvg-id="bcu-premiere",Premiere
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11039/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/bcu-criminal.png" tvg-id="bcu-criminal",Criminal HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11048/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-criminal.png" tvg-id="bcu-criminal",Criminal HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11048/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-reality.png" tvg-id="bcu-reality",Reality HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/16082/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-reality.png" tvg-id="bcu-reality",Reality HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/16082/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-action.png" tvg-id="bcu-action",Action HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11027/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-action.png" tvg-id="bcu-action",Action HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11027/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-fantastic.png" tvg-id="bcu-fantastic",Fantastic HD
+http://193.239.75.218:8000/play/a029
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-survival.png" tvg-id="bcu-survival",Виживання
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/17019/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-survival.png" tvg-id="bcu-survival",Виживання
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/17019/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-cinema.png" tvg-id="bcu-cinema",Cinema
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11029/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-cinema.png" tvg-id="bcu-cinema",Cinema
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11029/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-cosmo.png" tvg-id="bcu-cosmo",Cosmo HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/17021/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-cosmo.png" tvg-id="bcu-cosmo",Cosmo HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/17021/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-filmystic.png" tvg-id="bcu-filmystic",Mystic HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11033/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-filmystic.png" tvg-id="bcu-filmystic",Mystic HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11033/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-catastrophe.png" tvg-id="bcu-catastrophe",Catastrophe HD
+http://193.239.75.218:8000/play/a04l
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-marvel.png" tvg-id="bcu-marvel",MarvelMarvel HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11038/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-marvel.png" tvg-id="bcu-marvel",Marvel HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11038/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-stars.png" tvg-id="bcu-stars",Stars HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11044/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://iptvz.cf/bcu-stars.png" tvg-id="bcu-stars",Stars HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11044/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-comedy.png" tvg-id="bcu-comedy",Comedy HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/15026/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-comedy.png" tvg-id="bcu-comedy",Comedy HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/15026/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-kinozakaz.png" tvg-id="bcu-media",Media HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11043/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-kinozakaz.png" tvg-id="bcu-media",Media HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11043/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-kinorating.png" tvg-id="bcu-kinorating",Kinorating
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11037/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/bcu-kinorating.png" tvg-id="bcu-kinorating",Kinorating
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11037/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/UaSqo9h.png" tvg-id="5141",Боєвик
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/13028/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/UaSqo9h.png" tvg-id="5141",Боєвик
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/13028/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/0azcGAu.png" tvg-id="5147",Catastrophe2 HD
+http://ab502f2e.amazzin.pw/iptv/29SQ3W9NQ2FL78/13034/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/qMG4WGd.png" tvg-id="5147",Catastrophe2 HD
+http://ab502f2e.amazzin.pw/iptv/3R5XNMASLD34LG/13034/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/knh3uhj.png" tvg-id="5122",007 HD
+http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/13009/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/knh3uhj.png" tvg-id="5122",007 HD
+http://55508249.ottrast.com/iptv/3R5XNMASLD34LG/13009/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/SsfVmtP.png" tvg-id="5130",UFO HD
+http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/13017/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/SsfVmtP.png" tvg-id="5130",UFO HD
+http://55508249.ottrast.com/iptv/3R5XNMASLD34LG/13017/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/d5oGRsh.png" tvg-id="5161",Пригоди
+http://193.239.75.218:8000/play/a04y
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/RJO27Ws.png" tvg-id="5157",Мифология
+http://193.239.75.218:8000/play/a04u
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/uBOg5V3.png" tvg-id="5123",Love HD
+http://193.239.75.218:8000/play/a057
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/RgNrF2a.png" tvg-id="5124",Newfilm 1
+http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/13011/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/RgNrF2a.png" tvg-id="5124",Newfilm 1
+http://55508249.ottrast.com/iptv/3R5XNMASLD34LG/13011/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/okGAiTZ.png" tvg-id="5125",Newfilm 2
+http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/13012/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/okGAiTZ.png" tvg-id="5125",Newfilm 2
+http://55508249.ottrast.com/iptv/3R5XNMASLD34LG/13012/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/taoTqVX.png" tvg-id="5126",Newfilm 3
+http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/13013/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/taoTqVX.png" tvg-id="5126",Newfilm 3
+http://55508249.ottrast.com/iptv/3R5XNMASLD34LG/13013/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/dew2egS.png" tvg-id="5137",Агата Крісті
+http://193.239.75.218:8000/play/a04z
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://picon.ml/cineman-premium.png" tvg-id="cineman",CineMan
+http://myott.top/stream/K3TLKSX4EA/349.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/cineman-action.png" tvg-id="cineman-action",Action1
+http://myott.top/stream/K3TLKSX4EA/351.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/cineman-uzhasy.png" tvg-id="cineman-uzhasy",Ужаси
+http://myott.top/stream/K3TLKSX4EA/355.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://iptvz.cf/cineman-thriller.png" tvg-id="cineman-thriller",Триллер
+http://myott.top/stream/K3TLKSX4EA/352.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://picon.ml/cineman-top.png" tvg-id="cineman-top",Top
+http://myott.top/stream/K3TLKSX4EA/350.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/db1R3gq.png" tvg-id="kbc-premium",Premium
+http://ds6g2mk3.ottclub.xyz/iptv/29SQ3W9NQ2FL78/11080/index.m3u8
+#EXTINF:-1 group-title="Кіно"  tvg-logo="https://i.imgur.com/db1R3gq.png" tvg-id="kbc-premium",Premium
+http://ds6g2mk3.ottclub.xyz/iptv/3R5XNMASLD34LG/11080/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/eDgkl6m.png" tvg-id="kbc-fantastic",Fantastic
+http://ds6g2mk3.ottclub.xyz/iptv/29SQ3W9NQ2FL78/11076/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/eDgkl6m.png" tvg-id="kbc-fantastic",Fantastic
+http://ds6g2mk3.ottclub.xyz/iptv/3R5XNMASLD34LG/11076/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/xMmF3hN.png" tvg-id="kbc-koshmar",Кошмарне
+http://193.239.75.218:8000/play/a04m
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/hbX7ycQ.png" tvg-id="kbc-spy",Шпіонське
+http://ds6g2mk3.ottclub.xyz/iptv/29SQ3W9NQ2FL78/11093/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/hbX7ycQ.png" tvg-id="kbc-spy",Шпіонське
+http://ds6g2mk3.ottclub.xyz/iptv/3R5XNMASLD34LG/11093/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/premiere-hd.png" tvg-id="premiere-hd",Premiere HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11094/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/premiere-hd.png" tvg-id="premiere-hd",Premiere HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11094/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/premium-hd.png" tvg-id="premium-hd",Premium HD 
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11095/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/premium-hd.png" tvg-id="premium-hd",Premium HD 
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11095/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/paradox-hd.png" tvg-id="paradox-hd",Paradox HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11098/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/paradox-hd.png" tvg-id="paradox-hd",Paradox HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11098/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/thriller-hd.png" tvg-id="thriller-hd",Thriller HD
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/11099/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/thriller-hd.png" tvg-id="thriller-hd",Thriller HD
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/11099/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/magic-action.png" tvg-id="",Magic Action
+http://ec1c7171.ottclub.xyz/iptv/29SQ3W9NQ2FL78/18066/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/magic-action.png" tvg-id="",Magic Action
+http://ec1c7171.ottclub.xyz/iptv/3R5XNMASLD34LG/18066/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/magic-galaxy.png" tvg-id="",Magic Galaxy
+http://ec1c7171.ottclub.xyz/iptv/29SQ3W9NQ2FL78/18067/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/magic-galaxy.png" tvg-id="",Magic Galaxy
+http://ec1c7171.ottclub.xyz/iptv/3R5XNMASLD34LG/18067/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/MS%20YOUNG%20BLOOD%20HD.png",MS YOUNG BLOOD HD
+http://193.239.75.218:8000/play/a01i
+#EXTINF:-1 group-title="Кіно" tvg-id="illuzion-plus" tvg-rec="" tvg-logo="http://epg.it999.ru/img/2403.png",Иллюзион + 138.201
+http://138.201.67.145:8081/Illusion_plus/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="http://epg.it999.ru/img/2403.png",Иллюзион +
+http://185.23.80.28:8080/Illyuzion+/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/reE2v71.png",Еврокино
+http://185.23.80.28:8080/EuroKino/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://iptvz.cf/paramount-comedy.png",Paramount Comedy
+http://193.239.75.218:8000/play/a07h
+#EXTINF:-1 group-title="Кіно" tvg-logo="http://epg.it999.ru/img/2407.png" tvg-rec="",Киносат
+http://185.23.80.28:8080/KinoSat/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="http://epg.it999.ru/img/2407.png" tvg-rec="",Киносат
+http://93.125.29.22:45000/ntvbelarus
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://iptvz.cf/tvxxi.png",TV XXI
+http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-shift="" tvg-logo="https://picon.ml/fox.png" tvg-id="fox",Fox HD
+http://193.239.75.218:8000/play/a08d
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-shift="" tvg-logo="https://picon.ml/fox.png" tvg-id="fox-cis",Fox HD
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/foxlife.png"  tvg-rec="" tvg-id="foxlife",Fox Life
+http://193.239.75.218:8000/play/a08e
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/foxlife.png"  tvg-rec="" tvg-id="foxlife",Fox Life
+http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://picon.ml/amedia1.png",Amedia 1
+http://myott.top/stream/K3TLKSX4EA/117.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/amedia1.png",Amedia 1
+http://176.222.190.76/btv/SWM/A1/A1.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/amedia2.png",Amedia 2
+http://176.222.190.76/btv/SWM/A2/A2.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/amedia2.png",Amedia 2
+http://45.143.108.104:80/AMEDIA2_HD/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://picon.ml/amedia-hit.png",Amedia Hit HD
+http://176.222.190.76/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-logo="https://picon.ml/amedia-hit.png",Amedia Hit HD
+http://myott.top/stream/K3TLKSX4EA/162.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/amedia-hit.png",Amedia Hit HD
+http://193.33.240.8:8080/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-id="amedia-premium" tvg-logo="https://picon.ml/amedia-premium.png",AmedPremium
+http://176.222.190.76/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="7" tvg-id="amedia-premium" tvg-logo="https://picon.ml/amedia-premium.png",AmedPremium
+http://myott.top/stream/K3TLKSX4EA/151.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-tv" tvg-rec="" tvg-logo="https://picon.ml/sony.png",Sony ТВ HD
+rtmp://5.182.231.251//2062
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-tv" tvg-rec="" tvg-logo="https://picon.ml/sony.png",Sony ТВ HD
+http://176.222.190.76/btv/SWM/Red/Red.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-tv" tvg-rec="7" tvg-logo="https://picon.ml/sony.png",Sony ТВ HD
+http://myott.top/stream/K3TLKSX4EA/69.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-scifi" tvg-rec="" tvg-logo="https://iptvz.cf/sony-scifi.png",Sony Sci-Fi 193.239
+http://193.239.75.218:8000/play/a04q
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-turbo" tvg-rec="" tvg-logo="https://iptvz.cf/sony-turbo.png",Sony Turbo
+http://176.222.190.76/btv/SWM/Black/Black.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="sony-turbo" tvg-rec="7" tvg-logo="https://iptvz.cf/sony-turbo.png",Sony Turbo
+http://myott.top/stream/K3TLKSX4EA/263.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/F8c3AD6.png",VIP Serial HD
+http://193.239.75.218:8000/play/a04k
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/F8c3AD6.png",VIP Serial HD
+http://176.222.190.76/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="epik-drama" tvg-logo="https://i.imgur.com/87CMmlk.png",Epic Drama
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/1048/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="epik-drama" tvg-logo="https://i.imgur.com/87CMmlk.png",Epic Drama
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/1048/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="bolt" tvg-logo="https://picon.ml/bolt.png",Bolt
+http://193.239.75.218:8000/play/a080
+#EXTINF:-1 group-title="Кіно" tvg-id="filmua-drama" tvg-logo="https://picon.ml/filmua-drama.png",Film.Ua Drama
+http://176.222.190.76/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="lubimoe-kino" tvg-logo="https://picon.ml/lubimoe-kino.png",Любиме Кіно
+http://78.26.128.16:8081/6/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="" tvg-logo="https://i.imgur.com/GuzgbqL.png",Enter-фiльм
+http://78.26.128.16:8081/109/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="sonce-ua" tvg-logo="https://i.imgur.com/QtVre6f.png",Сонце
+http://78.26.128.16:8081/284/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="amc" tvg-logo="https://picon.ml/amc.png",AMC
+http://78.26.128.16:8081/260/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-id="ictv-ukraine" tvg-logo="https://i.imgur.com/bzoZdwk.png",ICTV2 UA
+http://193.239.75.218:8000/play/a08b
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://picon.ml/quiz-tv.png",Quiz TV
+http://78.26.128.16:8081/521/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/wNVMRok.png",СТС
+http://185.23.80.28:8080/STS/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/wNVMRok.png",СТС
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/w1q6cib.png",СТС +2
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6015/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/pq7zDCR.png",СТС +4
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6029/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/Lj6jp8Y.png",СТС +7
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/6043/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-rec="" tvg-logo="https://i.imgur.com/Lj6jp8Y.png",СТС +7
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/6043/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/fL3IWot.png" tvg-id="tv3-ru",ТВ3 HD
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/gMDRBKM.png" tvg-id="tv3-ru-pl2",ТВ3 +2
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/6017/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-logo="https://i.imgur.com/iwCLGqY.png" tvg-id="tv3-ru-pl4",ТВ3 +4
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6031/index.m3u8
+
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://i.imgur.com/dNYUbH6.png",Смішне AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://i.imgur.com/1BrOpOu.png",Кращі моменти ЛЧ 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="ua-odesa" tvg-logo="https://picon.ml/ua-odesa.png",Суспільне Одеса 1
+http://78.26.128.16:8081/232/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-logo="https://picon.ml/dynamo-kyiv-tv.png",Dynamo Kyiv TV
+http://myott.top/stream/K3TLKSX4EA/396.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-shift="" tvg-id="sport1-ua" tvg-logo="https://i.imgur.com/dEGHc4b.png",Sport 1 UA
+http://myott.top/stream/K3TLKSX4EA/391.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-shift="" tvg-id="sport1-ua" tvg-logo="https://i.imgur.com/dEGHc4b.png",Sport 1 UA
+http://78.26.128.16:8081/516/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://i.imgur.com/r8LFRmj.png",Sport 2 UA
+http://78.26.128.16:8081/517/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-logo="https://i.imgur.com/r8LFRmj.png",Sport 2 UA
+http://myott.top/stream/K3TLKSX4EA/392.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-rec="" tvg-logo="https://i.imgur.com/9CcZXSw.png",Sport 3
+http://78.26.128.16:8081/535/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-rec="7" tvg-logo="https://i.imgur.com/9CcZXSw.png",Sport 3
+http://myott.top/stream/K3TLKSX4EA/393.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-rec="" tvg-logo="https://i.imgur.com/KoTzVKG.png",Sport 4
+http://78.26.128.16:8081/518/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-rec="7" tvg-logo="https://i.imgur.com/KoTzVKG.png",Sport 4
+http://myott.top/stream/K3TLKSX4EA/394.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://picon.ml/ufc.png",Удар
+http://176.222.190.76/btv/SWM/udar_hd/udar_hd.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="",Матч! Футбол 1
+https://bal.varcdn.top/app/m1appvm/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="",Матч! Футбол 1
+https://livetv.mylifeisgood.ml/channels/5a2d552d958bb1a5ed5d76b042a64c41.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="" tvg-logo="",CasinoAviator
+https://ua.aviator.tv/stream31/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="" tvg-logo="",CasinoAviator2
+https://ua.aviator.tv/stream22/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="" tvg-logo="",CasinoAviator3
+https://ua.aviator.tv/stream24/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="" tvg-logo="",CasinoAviator4
+https://ua.aviator.tv/stream27/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="match-football2" tvg-logo="https://picon.ml/match-football2.png",Матч! Футбол 2
+https://livetv.mylifeisgood.ml/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-id="match-football2" tvg-logo="https://picon.ml/match-football2.png",Матч! Футбол 2
+http://clientportal.link:80/XDphWzkI72085/AA7DO24288/15246
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="",Матч! Футбол 3
+https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7",Матч! Футбол 3
+http://clientportal.link:80/XDphWzkI72085/AA7DO24288/15245
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="setanta-ua" tvg-logo="https://iptvz.cf/setanta-ua.png",Setanta Sports UA HD
+http://78.26.128.16:8081/161/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-id="setanta-ua" tvg-logo="https://iptvz.cf/setanta-ua.png",Setanta Sports UA HD
+https://bal.varcdn.top/app/setantaUAappvm/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="setanta-plus-ua" tvg-rec="" tvg-logo="https://iptvz.cf/setanta-plus-ua.png",Setanta Sports+ Ukraine
+http://78.26.128.16:8081/4/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="setanta-plus-ua" tvg-rec="7" tvg-logo="https://iptvz.cf/setanta-plus-ua.png",Setanta Sports+ Ukraine
+http://myott.top/stream/K3TLKSX4EA/390.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://iptvz.cf/setanta-plus-ua.png",Setanta Sports+ Ukraine
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/5068/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://iptvz.cf/setanta-plus-ua.png",Setanta Sports+ Ukraine
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/5068/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-shift="" tvg-logo="https://iptvz.cf/setanta-sports-georgia.png",Setanta Sports 1
+http://5.75.248.51:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-shift="" tvg-logo="https://iptvz.cf/setanta-sports-georgia.png",Setanta Sports 1
+http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-shift="" tvg-logo="https://iptvz.cf/setanta-sports2.png",Setanta Sports 2
+http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-shift="" tvg-logo="https://iptvz.cf/setanta-sports2.png",Setanta Sports 2
+http://5.75.248.51:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/TENNIS%20HD%20US.png",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%201%20HD%20orig.png",Eurosport 1 HD
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%201%20HD%20orig.png",Eurosport 1 HD
+http://78.26.128.59:9876/play/89/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%201%20HD%20orig.png",Eurosport 1 HD
+http://myott.top/stream/K3TLKSX4EA/176.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%201%20HD%20orig.png",Eurosport 1 HD
+http://91.146.94.234:10001/play/a05b
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%202%20HD.png",Eurosport 2 HD
+https://bal.varcdn.top/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="7" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%202%20HD.png",Eurosport 2 HD
+http://myott.top/stream/K3TLKSX4EA/192.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/Eurosport%202%20HD.png",Eurosport 2 HD
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="russky-ekstrim" tvg-logo="https://i.imgur.com/XvPlvFz.png",SD REX
+http://185.23.80.28:8080/RusskijEkstrim/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="russky-ekstrim" tvg-logo="https://i.imgur.com/XvPlvFz.png",SD REX
+http://193.33.240.8:8080/rus-extrim/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://picon.ml/1auto.png",Перший автомобільний
+http://78.26.128.16:8081/300/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-rec="" tvg-logo="https://iptvz.cf/motorsportv-tv.png",Моторспорт ТВ
+http://185.23.80.28:8080/Motorsport_HD/mpegts
+#EXTINF:-1 group-title="СПОРТ" tvg-id="xsport-ua" tvg-logo="https://iptvz.cf/xsport-ua.png",Xsport
+http://91.146.94.234:10001/play/a056
+#EXTINF:-1 group-title="СПОРТ" tvg-id="xsport-plus-ua" tvg-logo="https://iptvz.cf/xsport-plus-ua.png",Xsport+ HD
+http://api-tv.ipnet.ua/api/v1/manifest/2118742583.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-id="" tvg-logo="https://iptvz.cf/viasat-sport.png",Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://picon.ml/edgesport-de.png",Edge Sport HD DE
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="СПОРТ" tvg-logo="https://i.imgur.com/E4hc9W3.png",Impact Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="" tvg-logo="https://picon.ml/6sotok.png",6 соток HD
+http://78.26.128.16:8081/242/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="7" tvg-id="36-6-tv" tvg-logo="https://iptvz.cf/36-6-tv.png",36.6 TV
+http://myott.top/stream/K3TLKSX4EA/331.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="" tvg-logo="https://picon.ml/dacha.png",Дача
+http://193.239.75.218:8000/play/a07a
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://picon.ml/kus-kus.png",Кус-кус
+http://193.239.75.218:8000/play/a06x
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="nauka" tvg-logo="https://picon.ml/nauka.png",Наука
+http://193.239.75.218:8000/play/a064
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="fauna" tvg-logo="https://picon.ml/fauna.png",Фауна
+http://193.239.75.218:8000/play/a063
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="terra" tvg-logo="https://picon.ml/tera.png",Terra UA
+http://193.239.75.218:8000/play/a08c
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/eHuZpL8.png",Epoque
+http://193.239.75.218:8000/play/a081
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://picon.ml/avers.png",Аверс
+http://212.28.87.173:8000/play/a0zi/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/bigudi.png",Бiгудi
+http://212.28.87.173:8000/play/a0z1/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="dom" tvg-logo="https://picon.ml/dom.png",Дом
+http://78.26.128.16:8081/446/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="star-cinema-ua" tvg-logo="https://picon.ml/star-cinema.png",Star Cinema Україна
+http://193.239.75.218:8000/play/a05x
+#EXTINF:-1 group-title="Україна" tvg-id="filmua-drama" tvg-logo="https://picon.ml/filmua-drama.png",Film.Ua
+http://176.222.190.76/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="bolt" tvg-logo="https://picon.ml/bolt.png",Bolt Україна
+http://193.239.75.218:8000/play/a080
+#EXTINF:-1 group-title="Україна" tvg-id="bolt" tvg-logo="https://picon.ml/cine-plus-ledend.png",Cine+ Legend
+http://193.239.75.218:8000/play/a05e
+#EXTINF:-1 group-title="Україна" tvg-id="ictv-ukraine" tvg-logo="https://i.imgur.com/bzoZdwk.png",ICTV2 Ukraine 193.239
+http://193.239.75.218:8000/play/a08b
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/ictv.png",ICTV
+http://78.26.128.59:9876/play/189/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ztiDzDO.png",Континент Е(Про зірок)
+http://78.26.128.16:8081/540/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="tet-ua" tvg-logo="https://i.imgur.com/aT7bvPr.png",ТЕТ 212.28
+http://212.28.87.173:8000/play/a0yz/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="tet-ua" tvg-logo="https://i.imgur.com/aT7bvPr.png",ТЕТ 91.146
+http://91.146.94.234:10001/play/a04p
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://i.imgur.com/OQF7uDx.png",1+1 International
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/297581
+#EXTINF:-1 group-title="Україна" tvg-id="1plus1-ukraina" tvg-rec="" tvg-logo="https://i.imgur.com/1kvAe6y.png",1+1 Україна
+http://212.28.87.173:8000/play/a108/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="1plus1-ukraina" tvg-rec="7" tvg-logo="https://i.imgur.com/1kvAe6y.png",1+1 Україна
+http://myott.top/stream/K3TLKSX4EA/219.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/8EomDde.png",1+1 HD
+http://portal.ott.pink/watch/45/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-id="tv-4-ternopl" tvg-logo="https://i.imgur.com/I3ajPFi.png",TV-4 (Тернопіль)
+http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/cYTalgp.png",UA:Перший
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-id="kyiv-ua" tvg-logo="https://picon.ml/kyiv-ua.png",Київ
+http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/HfXXbQZ.png",5 канал
+http://78.26.128.16:8081/136/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="espreso-tv" tvg-logo="https://i.imgur.com/gVbr8FK.png",Еспресо
+http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/NtmLnig.png",24 новини
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="priamyj" tvg-logo="https://i.imgur.com/mV3HNR6.png",Прямий
+http://78.26.128.59:9876/play/204/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/apostrof.png",Апостроф
+http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://picon.ml/pravdatut.png",Правда ТУТ Київ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/ternopil1.png",Тернопiль 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="ua-odesa" tvg-logo="https://picon.ml/ua-odesa.png",Суспільне Одеса
+http://78.26.128.16:8081/232/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="ua-kyiv" tvg-logo="https://picon.ml/ua-kyiv.png",Суспільне Київ
+http://193.239.75.218:8000/play/a05k
+#EXTINF:-1 group-title="Україна" tvg-id="otb-galychyna" tvg-logo="https://picon.ml/otb-galychyna.png",Галичина(Ів.Франківськ)
+http://portal.ott.pink/watch/116/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-id="raiua" tvg-logo="https://picon.ml/raiua.png",РАІ(Ів.Франківськ)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/Eb1e6e9.png",Голос Америки
+http://portal.ott.pink/watch/7484/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/ictv.png",ICTV
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-rec="7" tvg-logo="https://i.imgur.com/bzoZdwk.png",ICTV2
+http://myott.top/stream/K3TLKSX4EA/368.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="",2+2
+http://91.146.94.234:10001/play/a04r
+#EXTINF:-1 group-title="Україна" tvg-logo="https://picon.ml/novy-kanal-ua.png" tvg-rec="",Новий канал
+http://78.26.128.59:9876/play/132/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/stb-ua.png",СТБ
+http://78.26.128.59:9876/play/123/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="7" tvg-logo="https://iptvz.cf/stb-ua.png",СТБ
+http://myott.top/stream/K3TLKSX4EA/156.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/wKLNkEB.png",Квартал ТВ
+http://193.239.75.218:8000/play/a076
+#EXTINF:-1 group-title="Україна" tvg-id="nauka" tvg-logo="https://picon.ml/nauka.png",Наука UA
+http://212.28.87.173:8000/play/a0z9/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="http://epg.it999.ru/img/2098.png",Мега
+http://212.28.87.173:8000/play/a10v/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://i.imgur.com/udJLKrE.png",Iнтер
+http://78.26.128.16:8081/137/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/udJLKrE.png",Iнтер
+http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/inter-plus-ua.png",Iнтер+
+http://212.28.87.173:8000/play/a114/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://picon.ml/ntn.png",НТН
+http://212.28.87.173:8000/play/a10t/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="unian-tv" tvg-logo="https://picon.ml/unian-tv.png",Унiан
+http://212.28.87.173:8000/play/a0zp/index.m3u8
+#EXTINF:-1 group-title="Україна"tvg-rec="3",ZOOM
+http://91.146.94.234:10001/play/a054
+#EXTINF:-1 group-title="Україна",К1
+http://212.28.87.173:8000/play/a10x/index.m3u8
+#EXTINF:-1 group-title="Україна"tvg-rec="",К2
+http://91.146.94.234:10001/play/a053
+#EXTINF:-1 group-title="Україна",К2
+http://212.28.87.173:8000/play/a10z/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-id="otse" tvg-logo="http://epg.it999.ru/img/3351.png",Oце
+http://78.26.128.59:9876/play/127/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A3%D0%9D%D0%86%D0%90%D0%9D.png",УНИАН
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/belsat.png",Белсат
+http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/V2ZXZv4.jpg",UA FreeДОМ
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-id="24news-ua" tvg-logo="https://i.imgur.com/JcWVdJh.png",I-UA TV
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://iptvz.cf/svarozhichi.png",Сварожичи
+http://tv.tv-project.com:1935/live/live1/chunklist_w1701929787.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/Gu1NZQ5.png",Настоящее время
+http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/NtmLnig.png",24 новини
+http://streamvideol1.luxnet.ua/news24/news24.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/rCqSq4r.png",UA:Культура
+http://91.146.94.234:10001/play/a04j
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://picon.ml/fauna.png",Фауна
+http://212.28.87.173:8000/play/a0z8/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-rec="" tvg-logo="https://iptvz.cf/tera.png",Терра
+http://78.26.128.16:8081/423/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="ewtn-ua" tvg-logo="https://i.imgur.com/zeElS8i.png",EWTN Україна
+https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
+
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://i.imgur.com/vh3Peun.png",Маша и Медведь 
+http://ds6g2mk3.ottclub.xyz/iptv/29SQ3W9NQ2FL78/18165/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://i.imgur.com/vh3Peun.png",Маша и Медведь
+http://ds6g2mk3.ottclub.xyz/iptv/3R5XNMASLD34LG/18165/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://i.imgur.com/l38zaKi.png",Суббота!
+http://185.23.80.28:8080/Super/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://iptvz.cf/nickelodeon-hd.png",Nickelodeon
+http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="nicktoons" tvg-logo="https://iptvz.cf/nicktoons.png",Nicktoons
+http://89.254.128.5:22280/nicktoons/video.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="" tvg-logo="https://i.imgur.com/oZhMXkR.png",Том і Джері
+http://193.239.75.218:8000/play/a051
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://i.imgur.com/iksZJvk.png",Том і Джері
+http://hls.kinoprofi.vip/hls/Tom.and.Jerry.Cowboy.Up.2022.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="nickelodeon-ua" tvg-logo="https://picon.ml/nickelodeon-ua.png",Nickelodeon Ukraine Pluto TV
+http://193.239.75.218:8000/play/a071
+#EXTINF:-1 group-title="Дитячі" tvg-id="nickelodeon-ua" tvg-logo="https://iptvz.cf/nickelodeon.png",Nickelodeon Ukr
+http://siloh-sp.plutotv.net/lilo/production/NickUkraine/master.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://i.imgur.com/x8ZN6zU.png",Мульт Ukr LIBERTY MULTUKR
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/18044/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://iptvz.cf/niki-junior.png",NIKI Junior HD
+http://78.26.128.16:8081/327/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="niki-kids" tvg-logo="https://iptvz.cf/niki-kids.png",Niki Kids HD
+http://78.26.128.16:8081/509/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="pixel" tvg-logo="https://iptvz.cf/maliatko-tv.png",Малятко TV
+http://78.26.128.16:8081/177/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="pixel" tvg-logo="https://iptvz.cf/maliatko-tv.png",Малятко TV
+http://czsnah5d.otttv.pw/iptv/UBYRWK2NEZDFZP/1003/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="pixel" tvg-logo="https://iptvz.cf/pixel.png",Піксель
+http://185.29.255.187:8001/play/a00d
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://iptvz.cf/plusplus.png",ПлюсПлюс
+http://91.146.94.234:10001/play/a04v
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://iptvz.cf/plusplus.png",ПлюсПлюс
+http://myott.top/stream/K3TLKSX4EA/339.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://iptvz.cf/mult.png",Мульт
+http://185.23.80.28:8080/Mult/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-logo="https://picon.ml/cartoon-network.png",Cartoon Network
+https://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 group-title="Дитячі",Cartoon Network
+http://89.254.128.5:22280/cartoon_network/video.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="multimania" tvg-logo="https://i.imgur.com/xu7o0BQ.png",Мультимания
+http://185.23.80.28:8080/Multilandiya/index.m3u8
+#EXTINF:-1 group-title="Дитячі" tvg-id="multimania" tvg-logo="https://i.imgur.com/xu7o0BQ.png",Мультимания
+http://193.33.240.8:8080/multimania/index.m3u8
+
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-id="rybalka" tvg-logo="https://i.imgur.com/ynZC1BP.png",Рибалка
+http://myott.top/stream/K3TLKSX4EA/286.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="6sotok" tvg-logo="https://picon.ml/6sotok.png",6 соток HD
+http://78.26.128.16:8081/242/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-rec=""  tvg-shift="" tvg-logo="https://i.imgur.com/BgfeKqc.png",National Geographic HD
+http://clientportal.link:80/XDphWzkI72085/AA7DO24288/23839
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-rec=""  tvg-shift="" tvg-logo="https://i.imgur.com/BgfeKqc.png",National Geographic
+http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-logo="https://i.imgur.com/BgfeKqc.png",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/galaxy-tv.png",Galaxy TV
+http://146.158.0.56:80/Galaxy/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://picon.ml/nasa4k.png",NASA 4K
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="eureka-hd" tvg-logo="https://i.imgur.com/tLFiaNM.png",Первый Космический HD
+http://185.23.80.28:8080/Evrika_HD/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/dtx.png",DTX
+http://clientportal.link:80/XDphWzkI72085/AA7DO24288/72690
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="viasat-explore-cee" tvg-logo="https://i.imgur.com/qcdgZ6s.png",Viasat Explore
+http://78.26.128.59:9876/play/223/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="viasat-explore-cee" tvg-logo="https://i.imgur.com/qcdgZ6s.png",Viasat Explore
+http://193.239.75.218:8000/play/a08a
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="viasat-explore" tvg-logo="https://iptvz.cf/viasat-explore.png",Viasat Explore HD
+http://176.222.190.76/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-id="viasat-explore" tvg-logo="https://iptvz.cf/viasat-explore.png",Viasat Explore HD
+http://myott.top/stream/K3TLKSX4EA/239.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/viasat-nature.png",Viasat Nature HD
+http://78.26.128.59:9876/play/224/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-logo="https://iptvz.cf/viasat-nature-history-hd.png",Viasat Nature/History HD
+http://ru02.spr24.net/263/index.m3u8?token=cU6iRqinrL4eHL
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/viasat-history.png",Viasat History HD
+http://78.26.128.59:9876/play/222/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="history-eu" tvg-logo="https://iptvz.cf/history-hd.png",History EU
+http://88.216.83.245:80/history/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="history-eu" tvg-logo="https://iptvz.cf/history-hd.png",History EU
+http://78.26.128.16:8081/363/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="history" tvg-logo="https://iptvz.cf/history-hd.png",History
+http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="h2" tvg-logo="https://iptvz.cf/h2.png",History2
+http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="h2" tvg-logo="https://iptvz.cf/h2.png",History2
+http://78.26.128.16:8081/222/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-logo="https://iptvz.cf/hdl.png",HDL
+http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/148336
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-logo="https://i.imgur.com/2R397Ly.png",МАСОН
+http://78.26.128.16:8081/403/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="terra-ru" tvg-logo="https://picon.ml/terra-ru.png",Terra
+http://176.222.190.76/btv/SWM/terra_hd/terra_hd.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="terra" tvg-logo="https://picon.ml/tera.png",Terra
+http://193.239.75.218:8000/play/a08c
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="discovery-channel-ce" tvg-logo="https://i.imgur.com/4tn9CNG.png",Discovery
+http://193.239.75.218:8000/play/a06v
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="discovery-channel-ce" tvg-logo="https://i.imgur.com/4tn9CNG.png",Discovery
+http://78.26.128.59:9876/play/285/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="discovery-science" tvg-logo="https://i.imgur.com/jnyLtqL.png",Discovery Science
+http://193.239.75.218:8000/play/a052
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-id="discovery-science" tvg-logo="https://i.imgur.com/jnyLtqL.png",Discovery Science
+http://myott.top/stream/K3TLKSX4EA/146.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-logo="https://i.imgur.com/tVG8uxM.png",ID Investigation Discovery EU
 rtmp://5.182.231.251//2102
-#EXTINF:-1 group-title="RTPM_2",Investigation Discovery
-rtmp://5.182.231.251//2085
-#EXTINF:-1 group-title="RTPM_2",ГЛАЗАМИ ТУРИСТА HD
-rtmp://5.182.231.251//2104
-#EXTINF:-1 group-title="RTPM_2",МИР ВОКРУГ HD
-rtmp://5.182.231.251//2134
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="" tvg-logo="https://i.imgur.com/tVG8uxM.png",ID Investigation Discovery EU
+http://91.146.94.234:10001/play/a045
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="travel-channel-eu" tvg-shift=""tvg-logo="https://iptvz.cf/travel-channel.png",Travel Channel
+http://78.26.128.16:8081/221/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні"n tvg-rec="7" tvg-logo="https://i.imgur.com/PPFFsvj.png",Travel+Adventure
+http://78.26.128.59:9876/play/405/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/dikiy.png",Дикий
+http://185.23.80.28:8080/Dikiy/mpegts
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-logo="https://iptvz.cf/dikaya-rybalka-hd.png",Дикая рыбалка HD
+http://185.23.80.28:8080/Dikaya_Rybalka/mpegts
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-logo="https://iptvz.cf/dikaya-oxota-hd.png",Дикая охота HD
+http://185.23.80.28:8080/Dikaya_Ohota/mpegts
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-logo="https://i.imgur.com/G9TRd6T.png",Охота и рыбалка
+http://77.240.45.106:18888/play/a028
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://picon.ml/nauka.png",Наука
+http://212.28.87.173:8000/play/a0z9/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-logo="https://picon.ml/trofey.png",Трофей
+http://78.26.128.16:8081/217/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/nauka-20.png",Наука 2.0
+http://185.23.80.28:8080/Nauka/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="nat-geo-wild-cis" tvg-logo="https://i.imgur.com/gJ7z4mC.png",Nat Geo Wild HD
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-id="nat-geo-wild-cis" tvg-logo="https://i.imgur.com/gJ7z4mC.png",Nat Geo Wild HD
+http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-logo="https://iptvz.cf/animal-planet.png" tvg-id="animal-planet-eu",Animal Planet HD
+http://78.26.128.16:8081/286/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/animal-planet.png" tvg-id="animal-planet-eu",Animal Planet HD
+http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="https://iptvz.cf/love-nature-4k.png" tvg-id="love-nature-4k",Love Nature 4K
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/6864/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="7" tvg-id="fauna" tvg-logo="https://iptvz.cf/fauna.png",Fayna
+http://78.26.128.16:8081/424/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="prikluchenia-hd" tvg-logo="https://picon.ml/prikluchenia-hd.png",Пригоди HD
+http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8
+#EXTINF:-1 group-title="Пізнавальні" tvg-rec="" tvg-id="prikluchenia-hd" tvg-logo="https://picon.ml/prikluchenia-hd.png",Пригоди HD
+http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/wNVMRok.png",СТС
+http://185.23.80.28:8080/STS/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/wNVMRok.png",СТС
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/w1q6cib.png",СТС +2
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6015/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/pq7zDCR.png",СТС +4
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6029/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-rec="" tvg-logo="https://i.imgur.com/Lj6jp8Y.png",СТС +7
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/6043/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-rec="" tvg-logo="https://i.imgur.com/Lj6jp8Y.png",СТС +7
+http://58a9b170.kazaktelekom.com/iptv/3R5XNMASLD34LG/6043/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/fL3IWot.png" tvg-id="tv3-ru",ТВ3 HD
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/gMDRBKM.png" tvg-id="tv3-ru-pl2",ТВ3 +2
+http://58a9b170.kazaktelekom.com/iptv/29SQ3W9NQ2FL78/6017/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/iwCLGqY.png" tvg-id="tv3-ru-pl4",ТВ3 +4
+http://i6sdr5wi.megogo.xyz/iptv/6EY38YZ99QQNZR/6031/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://picon.ml/yu.png",Ю
+http://185.23.80.28:8080/Yu/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://picon.ml/kinoseria.png",Киносерия
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://picon.ml/perec.png",Перец
+http://176.222.190.76/btv/SWM/Perec/Perec.m3u8
+#EXTINF:-1 group-title="Росія" tvg-rec="7" tvg-logo="https://i.imgur.com/Vaod9Qt.png",Вопросы и ответы
+http://194.113.234.110:6046
+#EXTINF:-1 group-title="Росія" tvg-rec="7" tvg-logo="https://i.imgur.com/Vaod9Qt.png",Вопросы и ответы
+http://myott.top/stream/K3TLKSX4EA/76.m3u8
+#EXTINF:-1 group-title="Росія" tvg-id="pobeda" tvg-logo="https://i.imgur.com/2eioUoZ.png",Победа
+http://185.23.80.28:8080/Pobeda/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/ntv-serial.png",НТВ Сериал
+http://185.23.80.28:8080/NTVSerial/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+http://185.23.80.28:8080/NTVXit/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://i.imgur.com/wBjNRxQ.png",Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/russky-detektiv.png",Русский детектив
+http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/5kanal-ru.png",Пятый канал
+http://185.23.80.28:8080/Pyatyj/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/tvcentr.png",ТВЦ
+http://185.23.80.28:8080/TVCentr/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/tnt.png",ТНТ
+https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/tnt.png",ТНТ
+http://185.23.80.28:8080/TNT/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/domashny.png",Домашний
+http://185.23.80.28:8080/Domashnij/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/zvezda.png",Звезда
+http://185.23.80.28:8080/Zvezda/index.m3u8
+#EXTINF:-1 group-title="Росія" tvg-logo="https://iptvz.cf/rentv.png",Рен ТВ HD
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 group-title="Росія",Первый канал
+http://185.23.80.28:8080/Pervyj/index.m3u8
+#EXTINF:-1 group-title="Росія",НТВ
+http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1 group-title="Росія",Россия 1
+http://185.23.80.28:8080/Rossiya1/index.m3u8
+#EXTINF:-1 group-title="Росія",TV 1000 Русское кино
+http://77.240.45.106:18888/play/a053
+
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/m1-ua.png",М1
+http://78.26.128.59:9876/play/87/index.m3u8u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/m2-ua.png",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/xoeAnS1.png",Happy Radio
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/eu-music.png",EU.Music
+http://78.26.128.16:8081/421/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://picon.ml/bridge-hd.png",Bridge TV Deluxe
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/bridge-tv-classic.png",BRIDGE TV CLASSIC
+http://185.23.80.28:8080/BRIDGETVCLASSIC/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/bridge-tv-classic.png",BRIDGE TV CLASSIC
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv
+#EXTINF:-1 group-title="Музика" tvg-id="4ever-music" tvg-logo="https://picon.ml/4ever-music.png",4ever Music
+http://78.26.128.16:8081/496/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-id="4ever-music" tvg-logo="https://picon.ml/4ever-music.png",4ever Music
+http://193.239.75.218:8000/play/a053
+#EXTINF:-1 group-title="Музика" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%202%20International.png",Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/europa-plus-tv.png",Европа Плюс ТВ
+http://185.23.80.28:8080/EuropaHD/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/vh1-classic.png",MTV 80s US
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/19911
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/vh1-classic.png",MTV 80s UK
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/4738
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/mtv-rocks.png",MTV 90s
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/5352
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/vh1-european.png",MTV 00s
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://iptvz.cf/mtv-hits.png",MTV Hits
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/4736
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/GCE7kCH.png",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/0fPxlkx.png",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://picon.ml/mtv-live-hd.png",MTV Live HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/443
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/M6s8q9u.png",XITE
+https://xite-samsung-de.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/w1S2JZW.png",VEVO Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/0B5GKkU.png",VEVO Country
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/9Pz6XsB.png",VEVO R&B
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/tr0uME5.png",VEVO '70s
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.imgur.com/TPb68y1.png",VEVO Reggaetón & Trap
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Музика" tvg-logo="",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://tv.359hiphop.com/wp-content/uploads/2022/06/359_OnlineHipHopTV_Black-300x171.png",Хип Хоп 359 TV
+https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://ottbill.cc/storage/images/channels/5f5bde57190075cda5f9659c7baaa8b1.png",MTV Spanking New HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg",88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss Tv HD
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.postimg.cc/d0TTSH94/ewewe.jpg",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.postimg.cc/c44h5Wth/cz-ocko-star-6827.jpg",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музика",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://i.postimg.cc/6pH1W3ny/image.jpg",VESELJAK TV
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="http://tv.10dailythings.com/images/channels/GR/messatida-tv/normal.png",MESSATIDA TV
+https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://photos.live-tv-channels.org/tv-logo/gr-baraza-music-tv-6107-300x225.jpg",Baraza Music HD
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2601.png",Power +
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музика" tvg-logo="https://photos.live-tv-channels.org/tv-logo/gr-baraza-music-tv-6107-300x225.jpg",Baraza TV Greek Hits
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/bEo5YgS.png",Мелодия FM Romantic
+https://online.melodiafm.ua/MelodiaFM_Romantic_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/g29Vapr.jpgh",Мелодия FM
+https://online.melodiafm.ua/MelodiaFM_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/MmKEfEr.png",Radio Relax
+https://online.radiorelax.ua/RadioRelax_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/69EbM74.jpg",Наше Радио
+https://online.nasheradio.ua/NasheRadio_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/WgAugRx.png",Flash Radio
+https://online.radioplayer.ua/FlashRadio_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/xutvg7d.jpg",Ух радіо
+http://193.169.80.7:8001/efirhq
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/6KOjJsO.png",Військове радіо
+http://212.26.132.129:8000/ArmyFM
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/ddigWcI.png",Люкс FM (Львів)
+https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/LjIIi2L.jpg",Вголос (Львів)
+https://cast108372.customer.uar.net/vgolos320
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/ZMQ4hcy.png",Бліц FM (Біла Церква)
+http://stream.blits-fm.ua/stream320
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/JB8snLx.png",Novaline UA
+https://stream.novaline.net.ua/Novaline_320
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/uCxMh3P.png",Українский хіт
+http://music.myradio.ua:8000/UkrPophit192.mp3?key=iptv.org.ua
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/NqmLV2s.png",Hit FM
+https://online.hitfm.ua/HitFM_HD
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/Q7isaos.png",Український реп
+http://music.myradio.ua:8000/ukrainian-rap192.mp3
+#EXTINF:-1 group-title="Радіо" aspect-ratio="" tvg-logo="https://i.imgur.com/4u4yj96.jpg",Український рок
+http://music.myradio.ua:8000/PopRock192.mp3
+
+#EXTINF:-1 group-title="Божевільна парочка" tvg-logo="https://i.imgur.com/wfz4Wv4.png",Божевільна парочка
+https://nerklq.cyou/content/stream/new4/long_shot_2019_bdrip_1080p_ukr_eng_hurtom_4649/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Четыре свадьбы и одни похороны 1994" tvg-logo="https://i.imgur.com/TnpbAFD.png",Четыре свадьбы и одни похороны 1994
+https://hye1eaipby4w.takedwn.ws/10_21_20/10/21/16/6GPK5QVI/NBNO4BQO.mp4/master.m3u8
+#EXTINF:-1 group-title="ЗАГАДКОВЕ ВБИВСТВО 2(2023)" tvg-logo="https://i.imgur.com/DPPT9Uw.png",ЗАГАДКОВЕ ВБИВСТВО 2 (Вбивство у Парижі) (2023)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVVBTT6V1dapmTt1keBBTTEVUMPRUSx8EVSxmWEtWeap2Yx00VJFTWtVVP:1677683276:5.58.112.192:c2e08f57145ef7c55742d095d0c2afd393ec60706f6cac7054b432fd325c1ac2/index.m3u8
+#EXTINF:-1 group-title="В постели с врагом (1991)" tvg-logo="https://i.imgur.com/hV4NKHo.png",В постели с врагом (1991)
+https://cdn-400.vb17123filippaaniketos.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2planpnTE5UaPRVR5pFROlWTEpUaZRlVs9ERRFzTEtmMaRFap1kMVlXTqNWP:1677684207:5.58.112.192:45898beef60b9bf56be59399a4e28525b69154b86a8a136cc8e3531cbf60e6fa/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",1
+https://nerklq.cyou/content/stream/films/mare.of.easttown.s01e01.webrip.1080p.ukr.5.1.hdrezka.studio_43933/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",2
+https://qeruya.cyou/content/stream/films/mare.of.easttown.s01e02.webrip.1080p.ukr.5.1.hdrezka.studio_45838/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",3
+https://qeruya.cyou/content/stream/films/mare.of.easttown.s01e03.webrip.1080p.ukr.5.1.hdrezka.studio_45324/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",4
+https://nerklq.cyou/content/stream/films/mare.of.easttown.s01e04.webrip.1080p.ukr.5.1.hdrezka.studio_45325/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",5
+https://nerklq.cyou/content/stream/films/mare.of.easttown.s01e05.webrip.1080p.ukr.5.1.hdrezka.studio_46067/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",6
+https://qeruya.cyou/content/stream/films/mare.of.easttown.s01e06.webrip.1080p.ukr.5.1.hdrezka.studio_46068/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мейр з Істтауна (2021)" tvg-logo="https://i.imgur.com/dGoefBs.png",7
+https://qeruya.cyou/content/stream/films/mare.of.easttown.s01e07.webrip.1080p.ukr.5.1.hdrezka.studio_46264/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Природній гріх" tvg-logo="https://i.imgur.com/GlcW47N.png",Природній гріх(Спокуса)
+https://nerklq.cyou/content/stream/new/original_sin_2001_bdrip_1080p_2xukr_eng_hurtom_19467/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Час" tvg-logo="https://i.imgur.com/Mams3Aa.png",Час UA(2021)
+https://hye1eaipby4w.takedwn.ws/10_11_21/10/11/13/65XRX34T/QA4JF7WH.mp4/master.m3u8
+#EXTINF:-1 group-title="Время" tvg-logo="https://i.imgur.com/Mams3Aa.png",Время (Час) RU
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVSpWW6FVNNJTW490RZJTTqNmeORVQ0k1VFdnWXplaORkSs5keNJjTHVUP:1677686839:5.58.112.192:fa5bd975c9d3d83f2a9bfa82c7841aa8d84446fb18d4cb58159e0182ab009f95/index.m3u8
+#EXTINF:-1 group-title="ХОЧУ ЯК ТИ" tvg-logo="https://i.imgur.com/LHunLkw.png",ХОЧУ ЯК ТИ
+https://nerklq.cyou/content/stream/new4/the_changeup_2011_bdrip_720p_ukr.engsub_ukr.eng_hurtom_8475/hls/720/index.m3u8
+#EXTINF:-1 group-title="Місіс Вілсон" tvg-logo="https://i.imgur.com/Zk8VNsW.png",1
+https://qeruya.cyou/content/stream/new2/mrs_wilson_s1/mrs_wilson_s01e01_2018_bdrip_1080p_ukr_eng_hurtom_33974/hls/720/index.m3u8
+#EXTINF:-1 group-title="Місіс Вілсон" tvg-logo="https://i.imgur.com/Zk8VNsW.png",2
+https://nerklq.cyou/content/stream/new2/mrs_wilson_s1/mrs_wilson_s01e02_2018_bdrip_1080p_ukr_eng_hurtom_33975/hls/720/index.m3u8
+#EXTINF:-1 group-title="Місіс Вілсон" tvg-logo="https://i.imgur.com/Zk8VNsW.png",3
+https://qeruya.cyou/content/stream/new2/mrs_wilson_s1/mrs_wilson_s01e03_2018_bdrip_1080p_ukr_eng_hurtom_33976/hls/720/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-1
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e01_ukr_eng_hurtom_84390/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-2
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e02_ukr_eng_hurtom_84391/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-3
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e03_ukr_eng_hurtom_84392/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-4
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e04_ukr_eng_hurtom_84393/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-5
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e05_ukr_eng_hurtom_84394/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-6
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e06_ukr_eng_hurtom_84395/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-7
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e07_ukr_eng_hurtom_84396/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-8
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e08_ukr_eng_hurtom_84397/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-9
+https://s2.ashdi.vip/content/stream/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e09_ukr_eng_hurtom_84398/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/BqFOvsU.png",1-10
+https://s2.ashdi.vip/vid21/serials/ginny_and_georgia_s1/ginny.and.georgia.s01e10_ukr_eng_hurtom_84399/hls/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-1
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s01ep01_84356/hls/720/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-2
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s01ep02_84357/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-3
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s01ep03_84358/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-4
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep04_84359/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-5
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep05_84360/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-6
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep06_84361/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-7
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep07_84362/hls/720/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-8
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep08_84363/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-9
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep09_84364/hls/720/index.m3u8
+#EXTINF:-1 group-title="Джинні і Джорджія" tvg-logo="https://i.imgur.com/WAJ1AAX.png",2-10
+https://s2.ashdi.vip/content/stream/new/ginny_georgia/s02/dzhinn_j_dzhordzhya_s02ep10_84365/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/cP5s2Jf.png",Законослухняний громадянин UA (2009)
+https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/21/Q42C74PJ/XWMTF5TM.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/nUyxfEB.png",Чесний злодій UA(Ліам Нісон)(2020)
+https://qeruya.cyou/vid21/new3/honest_thief_2020_bdrip_1080p_ukr_enghurtom_40288/hls/index.m3u8?rand=0.48247717375247645
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/HuXDXVX.png",Свиня UA (Ніколас Кейдж)(2021)
+https://qeruya.cyou/content/stream/films/pig_2021_bdrip_1080p_62511/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/SlTUTRo.png",доктор Дулітл UA (2020)
+https://qeruya.cyou/vid21/new/dolittle_2020_bdrip_1080p_ukr_eng_video_hurtom_17272/hls/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/AvmvgHM.png",Аладдін UA (2019)
+https://s2.ashdi.vip/content/stream/films/aladdn_375/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/HxD0qpz.png",Один дома (1990)
+https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/09/LQ2YUWZJ/IMPM6JUE.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/yeAD4aY.png",Один дома 2 (1992)
+https://hye1eaipby4w.takedwn.ws/11_25_20/11/25/21/UQSZM2UM/B2OHYBQ3.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/mPF62mH.png",Мобильник (2016)
+https://hye1eaipby4w.takedwn.ws/11_21_18/11/21/21/2WdxgWmj/1080_v0ts2DdZ.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/yVPJlCc.png",Искусственный интеллект (2020)
+https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/17/WTXR2MR4/SUWSUPR6.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/agYnYsL.png",Геміні (2019)
+https://hye1eaipby4w.takedwn.ws/11_26_20/11/26/02/W5IUZTLG/6IVID55X.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/K0rfdvb.png",Охота на воров (2018)
+https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/12/AXJEYKD5/GX55NEPL.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/A42mSkX.png",Шесть дней, семь ночей (1998)
+https://hye1eaipby4w.takedwn.ws/06_16_20/06/16/11/HIR7WONM/GDY65YX3.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/8ZGpv0q.png",Индиана Джонс: В поисках утраченого ковчега (1981)
+https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/16/E67PNFC7/33BDPDAR.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/8ZGpv0q.png",Индиана Джонс и Храм судьбы (1984)
+https://hye1eaipby4w.takedwn.ws/09_27_20/09/27/04/SUCBAH3K/Z73U5IST.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/8ZGpv0q.png",Индиана Джонс и последний крестовый поход (1989)
+https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/23/LYRBYIJH/MNMXULAD.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/8ZGpv0q.png",Индиана Джонс и Королевство хрустального черепа (2008)
+https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/22/AC6OS4CS/BDCRXW5X.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/KMOUpfs.png",Не время умирать (2021)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVkxWTXZUbZRlVqp1VFFzTHVFMOdUR510RStmWUZVbNRlVtp1RZBjTqVUP:1665154955:5.58.112.192:c89b7fdb35e4b7a171fda8384c60811cc68db1a227a4e9477557ca75535d6d8f/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/GE3FlYJ.png",Три дня на втечу (2010)
+https://hye1eaipby4w.takedwn.ws/12_03_21/12/03/23/3VWVICCB/B3H6CNQJ.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/kpMkl74.png",Мумія (2017)
+https://hye1eaipby4w.takedwn.ws/11_25_20/11/25/18/SZ525IJV/UUNZTKXS.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/WoESyzs.png",Сделано в Америке (2017)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVotWTUhGaOpnTp9EVnlnWXZUba1WU45UbRlnWXZEbOdUVwkFVZFjTqNWP:1665154622:5.58.112.192:e7556e2766f0a723e8c814bffba4976675781be0ede61368fb9cf47cb1ac295d/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/lgoFLVK.png",Топ Ган: Мэверик (2022)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21UbNJjTHVleZpmRt5ERRNjTH1keNp3Z14ERnNzTUlUNNpmWs50RZFTTqVVP:1665154747:5.58.112.192:ff8228b99a835bc19e0a5e38b016dc4d6f57a815a90694b01c4a5d0a79c84860/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/AFbzO19.png",Паркер (2013)
+https://cloud.cdnland.in/94acda552d08b0643ea4dce9033c4aa0:2022092613/movies/af2b17ecf0f520a0eabef95bfd97d4d27a920350/240.mp4?dn=Паркер_360.mp4
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/1ss3Ama.png",Рыцарь дня (2010)
+https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/00/M7CU2RGK/4J2SHTNV.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/iir4Cc3.png",Джуманджи (1995)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kekt2TH1UeN1mWq50VNhnWqFFNPdkRtpFVRVTTyk0dPRUT41UbVpXTXVVP:1665154286:5.58.112.192:f125d1873039e7bb471e532180ab6d113f69826a7f30615f9ef36d523116fdd4/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/th8nLPZ.png",Джуманджи: Зов джунглей (2017)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVOpmWtlVMZRlQt9ERBRzTHV1MOdUUz8EVOpWTqlVMPRlQo5kaRpnTtlUP:1665151648:5.58.112.192:571f85d03383690ba81a5e75e7a54c822daa833b67bb4185fdd86f2a11347fe1/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/hvPE9D9.png",Джуманджи: Новый уровень (2019)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llejJjTERGbZRlRt1UbNdXWURmaapWT45kaW1mTXpEbNRVWx0UbWpmTqdWP:1665152068:5.58.112.192:48596bf503a6931fcaabd5e16bf353db3e12f954cf600100d9e39f1f820f1b42/480/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/zagkgLt.png",Круиз по джунглям (2021)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EROtWWqNGMNRlVo5kanhXWUlFeZpmWp50VGxmTyUVMPdlVsllerJjWEFUP:1664205394:5.58.112.192:ef2edec143287f86dc1571460f62d2f4595e187b7b9921801f00d6035cc2ee4b/720/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Флешбек (2022)
+https://serpens.cloud.cdnland.in/d86fe27372996665a5e57fb5fb51c3d3:2022092318/movies/a985ea12bcb2c3374ecfc241aa9b83f17e13fda3/360.mp4?dn=Флешбэк_720.mp4
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Заступник (2021)
+https://cdn4501.vb17121coramclean.pw/stream2/cdn-400/cab5377aa00edf68efc8da67a06c886b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVrhnTy0EMPdkWr5kaOhWTqVleN1WSykFVVFjWUlkMNpWT55kaRhXTqNWP:1660473761:77.111.246.19:2e86ce4165d0aa05d1b43c1e735c1939ee3bff9e4933f0bc3ab40776f80c7202/720/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Нічний втікач
+https://cdn4501.vb17121coramclean.pw/stream2/cdn0/cab5377aa00edf68efc8da67a06c886b/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZ3TUNGMNpHbq50RJlnTEJUba1WT61EVVFTTqlEMNRVV6lVbatWWUtmMPdVVz8EVNhnWUZEaNJTW140RJhXTqJEbPRVT310VNFjWXJFaO1WT350VNBjT31TP:1660474164:77.111.246.19:2a4fa27b507ea2d99cfe6e8fd6e41023d347c8a9c7cb04bb96b216654148c1de/hls/720.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Крах Білого дому
+https://cdn4501.vb17121coramclean.pw/stream2/cdn0/cab5377aa00edf68efc8da67a06c886b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25keRVTTHVFNNdVT61kerhXTEtGMaRUQzkVbGxmWHVFMZJTU55keRJjWXlVP:1660474310:77.111.246.19:43295677875b44a31be856ebc4b0938e406dec656f268ad6409dc239336c46e9/720/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Невідомий
+https://cdn4501.vb17121coramclean.pw/stream2/cdn0/cab5377aa00edf68efc8da67a06c886b/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnTXl0MPRVT1kFVndnWqRGaadVS45EVJdXTtFleOdVVw00RVd3TX5kaapWV4p1VFFTWqVkMapGbp50VGxmTt1UMPRVVzo1VK1mWUpFaZpnTs1EVZNjT31TP:1660474064:77.111.246.19:4f57467f8b5f0a02a09033ee6df1b9fc9a3c754e5377113125b6b3d4bf5c9781/hls/720.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Заложниця
+https://cdn0.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZXTUlVNNRVS45kajdnTUZ1aapWQ0kVbGpWWqFUMZJTVx4kMRFjWH50aaRVTx0ERkp2TXlFMNRUQwk1Val2TUVFMaR0Y350RZJjTUt2dN1WU39EVjBzTR1TP:1660470965:5.58.112.192:921a0104173f9bd95d39318b0da81f703233a53b87ec2cb9839d331bd8ca8638/index.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Заложниця 2
+https://cdn4572.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnWqNGNPRVR1o1VZRjTqFVePRlVp9EVJdnWtZFaNRkTpplaOtWWqlVePR1Zy0kMFNTWqhGbORlQqpFVRBTWUZlaZpnWq5UbRBTTqlUePRVQyoVbJpnTn1TP:1664094609:5.58.112.192:ad7e9aac04dca8973b5efd052e6e870dddd8773c320a44016e780649dec87d3c/hls/720.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Заложниця 3
+https://cdn4572.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnT61UNadkRplleRJjWXV1MNdVW69EVWxmTE5EbadlUs1EVO12THZFaNdUVz0kMGxWTtJFaZRFZp5ERotWTt5EbOR0aw00RFNjTUZkaZJTS690RStWTR1TP:1663864499:5.58.112.192:fc6d503243dbeb45b75dc7864a90f06a0b36d5abe3bd2b30797e73441b249840/hls/720.m3u8
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/50JhuFD.png",Неукротимый
+https://atlas.cloud.cdnland.in/369a6157c7a2402debad82e60879026d:2022081316/movies/d0146008991f518ad86ddb1714dd6ab200ae1512/720.mp4?dn=Неукротимый_1080.mp4
+#EXTINF:-1 group-title="Фільми" aspect-ratio="" tvg-logo="https://i.imgur.com/tw0CwUm.jpg",Операция «Ы» и другие приключения Шурика (1965)
+https://cdn4503.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnWEh2aNRVV00keZJjT6VEeNpnWp9EVa1mTHVEea1mWq10RVNTWtlkMNpXV1olaCtmTUpFaOdlTolFVZNjT61UNNRVU14ERZRTT6J0aNRUR65kejdnTn1TP:1652957817:5.58.112.192:5b9da6b9402ed056ac2ba6803f8df393ff069d1bcae705d380f48754a51fb0ab/hls/1080.m3u8
+#EXTINF:-1 group-title="Фільми" tvg-logo="https://i.imgur.com/4cvjOdc.png",Бриллиантова рука
+https://cdn4503.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnWXVVMaRUV00UbJVjTHZFaNRlRo1kaFBTTqFlMNdVT6lleVRjWUZkaNRlTtlFVNNjT6VVeZdlUr9EVS1WTtVUePR0Z3lFVnVjWqV0MNJTW100RStWW31TP:1652956935:5.58.112.192:6bb8b9852c83fdab836fab9511cc13b2c8b09c894f1f21cfc8de0009ae35b30c/hls/720.m3u8
+#EXTINF:-1 group-title="Фільми" tvg-logo="https://i.imgur.com/xGtN5lG.png",Иван Васильевич меняет профессию (1973)
+https://cdn4503.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVJBTWyokaZ1WT1kFVNBjWHFFMNR0YxoFRjNTTEVleN1WS14EVO1mWUlVP:1652956851:5.58.112.192:599db55eba887b4e2c0073f64ed25df8c03d77f6897f8dfea5ea90c25d37dd7d/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми" tvg-logo="https://i.imgur.com/2UE4TrE.png",Кавказская пленница
+https://cdn4503.vb17121coramclean.pw/stream2/cdn0/8ab0928191bba9e112f04614be1bf0f2/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZXT6lVeOpXQx80RG1mTH1UMZdVRz0ERot2TE1ENOdlRq5EVahWWyUVMNp3Zz8ERnpnTUFFMapWV1kleKpmWt1UeZJTU550VZBjTXFFMZpXT31UbRRjTB1TP:1652956748:5.58.112.192:3e6b67776562991bc0b587ca9e5fdc042f4f2450448e10724c9e68b93f1190a8/hls/720.m3u8
+
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/V02VVof.png",Отзвуки прошлого (2023)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pVbNpnWUd2da1WU45keBJjWHZ1aOdVR140RGh2TUZUaORUS14EVSxWTtVUP:1675281984:5.58.112.192:a839908efaa81eb5a2d4d7c0ade38e55d14771c287a0a2a6c9cb928945cb41be/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/UpiYkI6.png",Идеальное убийство
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMKpWTyYFbPdkUr1ERClWTt1EMNpmUr1keotWWqd2MO1mRq10RVhXWyEVP:1675964832:5.58.112.192:943adf562cad38f2acbfed6e302f347ab33870720755ec96dbd2aabfc52ed3ea/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/kOdVoTQ.png",Моя пиратская свадьба (2022)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMFRTTqFUNOpmVt5kaNlXT6VUeZ1mWq5kejBTWyk0dZ1WS0olarhnWUdWP:1675279191:5.58.112.192:2cd28013c6654fe2b11c5b71d985480ef74e236643a9915bfcec21eccae21cd8/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/a54Jqy6.png",Здобич (2022) 
+https://s2.ashdi.vip/content/stream/films/prey_2022_skidub_71364/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/b6oSzpq.png",Аватар: Шлях води (2022)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVjhnTUNmeORlWollaklmWtllMOdlTtlVbWpWT6hWaZJTU31ERWtWTXlUP:1672334777:5.58.112.192:dffd239873a2f3d2bed965e436ed57229fcd98e8d31c95e7520b2b902703db0f/1080/index.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/mWWiPNV.png",По следу хакера (2022) 
+https://hye1eaipby4w.takedwn.ws/04_11_22/04/11/20/HMFDRTUT/3OHSK5RV.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/d7cuSf5.png",Опасное место (2022)
+https://hye1eaipby4w.takedwn.ws/07_10_22/07/10/15/RTYDA6XV/IECHHJTO.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/kVFc3Jc.png",Ирония судьбы в Голливуде (2022)
+https://hye1eaipby4w.takedwn.ws/09_30_22/09/30/17/CYQPFJYU/YG7UB4H2.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/f0kYZdC.png",Серый человек (2022)
+https://hye1eaipby4w.takedwn.ws/08_18_22/08/18/18/MZV3DUWL/37PK4SR7.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/y9oKsFn.png",Быстрее пули (2022)
+https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/16/ZUYAVJ45/7IMLPILV.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/NVpK4Ys.png",Наёмник (2022)
+https://hye1eaipby4w.takedwn.ws/09_21_22/09/21/17/GNV56MLW/JFT64OJO.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/h0AWSuS.png",Падение Луны (2022)
+https://hye1eaipby4w.takedwn.ws/09_22_22/09/22/03/VGWAOTW4/UN6UTBYP.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/y4XIOHw.png",На краю (2022)
+https://hye1eaipby4w.takedwn.ws/01_31_22/01/31/23/RXUB54S4/YFAQOZ5O.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/FjAPNys.png",Бандит (2022)
+https://hye1eaipby4w.takedwn.ws/09_29_22/09/29/16/BM6ZC6WS/JADZTSHY.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/kMV7sX4.png",В постели с незнакомцем (2022)
+https://hye1eaipby4w.takedwn.ws/08_25_22/08/25/11/J242ZK4X/6ICQP7AB.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/1VYGpsx.png",Пропавшая (2022)
+https://hye1eaipby4w.takedwn.ws/07_21_22/07/21/16/ULDFTPCL/PNVB4WCJ.mp4/master.m3u8
+#EXTINF:-1 group-title="Фільми 2022" aspect-ratio="" tvg-logo="https://i.imgur.com/TniJ9GR.png",Гра тіней (2022)
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VatmTHp1aaRUUy00RJNjWHlVePdUS31kMRhXWtZEaZJjWt50VKlmWEdWP:1660470338:5.58.112.192:684dabadd49b501625ed3a7f686f35274d099953dfb1cc057a043a28d839cbe4/index.m3u8
+#EXTINF:0 group-title="Фільми 2022",Соник 2 в кино (2022)
+http://hls.kinoprofi.vip/hls/Sonic.the.Hedgehog.2.2022.Dt.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Плохие парни (2022)
+http://hls.kinoprofi.vip/hls/Plohie.parni.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Камон Камон (2022)
+http://hls.kinoprofi.vip/hls/Cmon.Cmon.2021.RUS.BDRip.x264/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Гарри Хафт: Последний бой (2022)
+http://hls.kinoprofi.vip/hls/TheSurvivor.2021.DUB.iTunes.x264.WEB-DLRip-AVC/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Скорая (2022)
+http://hls.kinoprofi.vip/hls/Ambulance.2022.MVO/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",От кутюр (2022)
+http://hls.kinoprofi.vip/hls/Ot.kutyur.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Дьяволик (2022)
+http://hls.kinoprofi.vip/hls/Diabolik.2021.DUB.BDRip.x264/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Исправительные меры (2022)
+http://hls.kinoprofi.vip/hls/Corrective.Measures.2022.Pa.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Вирус 32 (2022)
+http://hls.kinoprofi.vip/hls/Virus-32.2022.1080p.WEB-DL/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Анчартед: На картах не значится (2022)
+http://hls.kinoprofi.vip/hls/Uncharted.2022.RUS.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Бэтмен (2022)
+http://hls.kinoprofi.vip/hls/Betmen.2022.WEB-DLRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Опасная вечеринка (2022)
+http://hls.kinoprofi.vip/hls/A.Banquet.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Бабушка (2022)
+http://hls.kinoprofi.vip/hls/Babushka.2021.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Золушка и тайна волшебного камня (2022)
+http://hls.kinoprofi.vip/hls/Zolushka.i.tajna.volshebnogo.kamnya.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Короче, я женюсь! (2022)
+http://hls.kinoprofi.vip/hls/koroche.ya.jenus.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Военная охота (2022)
+http://hls.kinoprofi.vip/hls/Warhunt.2022.1080p.WEBRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Финник (2022)
+http://hls.kinoprofi.vip/hls/Finnik.2022.WEB-DL.720p.ExKinoRay/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Нитрам (2022)
+http://hls.kinoprofi.vip/hls/Nitram.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",До встречи с Грейс (2022)
+http://hls.kinoprofi.vip/hls/Do.vstrechi.Greiss.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Парящий тигр (2022)
+http://hls.kinoprofi.vip/hls/pariashiy.tigr.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Грусть (2022)
+http://hls.kinoprofi.vip/hls/The.Sadness.Uncut.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Лунные приключения (2022)
+http://hls.kinoprofi.vip/hls/Lunnyie.priklyucheniya.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Костюм (2022)
+http://hls.kinoprofi.vip/hls/The.Outfit.2022.AVC/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Ты не будешь в одиночестве (2022)
+http://hls.kinoprofi.vip/hls/You.Wont.Be.Alone.2022.RUS.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Хочу замуж (2022)
+http://hls.kinoprofi.vip/hls/Hochu.Zamuzh.2022.RUS.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Крестовый поход (2022)
+http://hls.kinoprofi.vip/hls/La.Crociata.2021.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Бесконечная буря (2022)
+http://hls.kinoprofi.vip/hls/Beskonechnaya.burya.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Призраки квартиры 203 (2022)
+http://hls.kinoprofi.vip/hls/Room.203.2022.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Смертельный выбор (2022)
+http://hls.kinoprofi.vip/hls/Smertelnyj.vybor.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Утраченные иллюзии (2022)
+http://hls.kinoprofi.vip/hls/Utrachennyie.illyuzii.2021.HDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Флирт с дьяволом (2022)
+http://hls.kinoprofi.vip/hls/Shattered.2022.DUB.x264/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Дочь короля (2022)
+http://hls.kinoprofi.vip/hls/The.Kings.Daughter.2022.RUS.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Голос любви (2022)
+http://hls.kinoprofi.vip/hls/Aline.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Дерзкое ограбление (2022)
+http://hls.kinoprofi.vip/hls/Derzkoe.ograblenie.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Космический рассвет (2022)
+http://hls.kinoprofi.vip/hls/Cosmic.Dawn.2022.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",З/Л/О 94 (2022)
+http://hls.kinoprofi.vip/hls/V.H.S.94.2021.400p.WEB-DL/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Наёмник (2022)
+http://hls.kinoprofi.vip/hls/The.Contractor.2022.AMZN.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Между небом и землёй (2022)
+http://hls.kinoprofi.vip/hls/The.In.Between.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Герой (2022)
+http://hls.kinoprofi.vip/hls/A.Hero.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Однажды в пустыне (2022)
+http://hls.kinoprofi.vip/hls/Odnazhdy.v.pustyne.2022.WEB-DLRip.25Kuzmich/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Лулу и Бриггс (2022)
+http://hls.kinoprofi.vip/hls/Lulu.i.Briggs.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Непослушник (2022)
+http://hls.kinoprofi.vip/hls/Neposlushnik.2021.WEB-DLRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Парни под прикрытием (2022)
+http://hls.kinoprofi.vip/hls/Parni.pod.prikrytiem.2022.WEB-DRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Игра теней (2022)
+http://hls.kinoprofi.vip/hls/Igra.teney.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Шимпанзе под прикрытием (2022)
+http://hls.kinoprofi.vip/hls/C.I.Ape.2021.WEB-DLRip.x264.720p/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Все старые ножи (2022)
+http://hls.kinoprofi.vip/hls/All.The.Old.Knives.2022.1080p.NewComers/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Смерть на Ниле (2022)
+http://hls.kinoprofi.vip/hls/Death.on.The.Nile.2022.RUS.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Слишком крут для убийства (2022)
+http://hls.kinoprofi.vip/hls/Too.Cool.To.Kill.2022.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Мистер Нокаут (2022)
+http://hls.kinoprofi.vip/hls/Mister.nokaut.2022.WEB-DLRip.25Kuzmich/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Последнее пришествие дьявола (2022)
+http://hls.kinoprofi.vip/hls/The.Exorcism.of.God.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Пузырь (2022)
+http://hls.kinoprofi.vip/hls/The.Bubble.2022.NF.WEB-DL.1080p.seleZen/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Искупительная любовь (2022)
+http://hls.kinoprofi.vip/hls/Redeeming.Love.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Крутой взлет (2022)
+http://hls.kinoprofi.vip/hls/Moonshot.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Старый Генри (2022)
+http://hls.kinoprofi.vip/hls/Old.Henry.2021.MVO.BDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Пиноккио (2022)
+http://hls.kinoprofi.vip/hls/Pinnokkio.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Падение Луны (2022)
+http://hls.kinoprofi.vip/hls/Moonfall.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Аполлон-10½: Приключение космического века (2022)
+http://hls.kinoprofi.vip/hls/Apollo.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Проклятие плачущей: Безвременье (2022)
+http://hls.kinoprofi.vip/hls/The.Nameless.Days.2022.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Волк и лев (2022)
+http://hls.kinoprofi.vip/hls/Le.Loup.et.le.Lion.2021.WEB-DLRip.25Kuzmich/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Взаперти (2022)
+http://hls.kinoprofi.vip/hls/Shut.In.2022.Pof.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Гонка со временем (2022)
+http://hls.kinoprofi.vip/hls/Gonka.so.vremenem.2021.WEB-DLRip.AVC/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Хинтерленд: город грехов (2022)
+http://hls.kinoprofi.vip/hls/Hinterland.2021.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Исповедь (2022)
+http://hls.kinoprofi.vip/hls/Mass.2021.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Первый встречный (2022)
+http://hls.kinoprofi.vip/hls/Marry.Me.2022.DVO.Pazl.x264.HDRip-AVC/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Чудаки навсегда (2022)
+http://hls.kinoprofi.vip/hls/Jackass.Forever.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Взмах (2022)
+http://hls.kinoprofi.vip/hls/Heart.of.Champions.2021.HDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Внезапная удача (2022)
+http://hls.kinoprofi.vip/hls/Windfall.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Я краснею (2022)
+http://hls.kinoprofi.vip/hls/Red.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Любовники (2022)
+http://hls.kinoprofi.vip/hls/Lyubovniki.2020.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Календарь дьявола (2022)
+http://hls.kinoprofi.vip/hls/Kalendar.dyavola.2021.BDRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Помогите, я уменьшил своих друзей! (2022)
+http://hls.kinoprofi.vip/hls/Help.I.Shrunk.My.Friends.2021.1.46GB.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Пираты: Последнее королевское сокровище (2022)
+http://hls.kinoprofi.vip/hls/Piraty.Poslednee.korolevskoe.sokrovishche.2022.WEB-DLRip.AVC/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Глубокие воды (2022)
+http://hls.kinoprofi.vip/hls/Deep.Water.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Клаустрофобы: Начало (2022)
+http://hls.kinoprofi.vip/hls/klaustrofobi.nachalo.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Чёрный краб (2022)
+http://hls.kinoprofi.vip/hls/Svart.krabba.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Человек-паук: Нет пути домой (2022)
+http://hls.kinoprofi.vip/hls/Spider-Man.No.Way.Home.2021/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Внебрачные связи (2022)
+http://hls.kinoprofi.vip/hls/Vnebrachnyie.svyazi.2021.KP.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Удовольствие (2022)
+http://hls.kinoprofi.vip/hls/Pleasure.2021.MVO.BDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Дом на берегу залива (2022)
+http://hls.kinoprofi.vip/hls/A.House.on.the.Bayou.2021.D.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Команда котиков (2022)
+http://hls.kinoprofi.vip/hls/Komanda.kotikov.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Проект «Адам» (2022)
+http://hls.kinoprofi.vip/hls/The.Adam.Project.2022.D.NF.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",После Янга (2022)
+http://hls.kinoprofi.vip/hls/After.yang.2022.Pa.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",История моей жены (2022)
+http://hls.kinoprofi.vip/hls/The.Story.of.My.Wife.2021.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Тед К. Унабомбер (2022)
+http://hls.kinoprofi.vip/hls/Ted.K.2021.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Код 355 (2022)
+http://hls.kinoprofi.vip/hls/The.355.2022.D.BDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Гоу, Феликс! (2022)
+http://hls.kinoprofi.vip/hls/Felix.and.the.Hidden.Treasure.2021.D.AMZN.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Не найти покоя (2022)
+http://hls.kinoprofi.vip/hls/Restless.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Роман служанки (2022)
+http://hls.kinoprofi.vip/hls/Mothering.Sunday.2021.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Даже мыши попадают в рай (2022)
+http://hls.kinoprofi.vip/hls/I.mysi.patri.do.nebe.2021.D.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Борьба со льдом (2022)
+http://hls.kinoprofi.vip/hls/Against.The.Ice.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Прыгучая братва (2022)
+http://hls.kinoprofi.vip/hls/Joey.and.Ella.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Выхода нет (2022)
+http://hls.kinoprofi.vip/hls/No.Exit.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Женщина-кошка: Охота (2022)
+http://hls.kinoprofi.vip/hls/Catwoman.Hunted.2022.P.HDRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Мы монстры 2 (2022)
+http://hls.kinoprofi.vip/hls/Monster.Family.2.2021.D.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Отчаянные фрики (2022)
+http://hls.kinoprofi.vip/hls/Freaks.Out.2021.AVO.HDRip.x264/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Вестсайдская история (2022)
+http://hls.kinoprofi.vip/hls/West.Side.Story.2021.D.HDRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Звёздный разум (2022)
+http://hls.kinoprofi.vip/hls/Zvezdnyiy.razum.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Фантазии для взрослых (2022)
+http://hls.kinoprofi.vip/hls/Les.Fantasmes.2021.WEB-DLRip/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Добро пожаловать в Рим. Новые приключения (2022)
+http://hls.kinoprofi.vip/hls/Come.Un.Gatto.In.Tangenziale.2.2021.Pa.HDRip.14OOMB/playlist.m3u8
+#EXTINF:0 group-title="Фільми 2022",Лакричная пицца (2022)
+http://hls.kinoprofi.vip/hls/Licorice.Pizza.2021.D.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Добыча
+https://hls.kinokrad.cc/hls/Prey.2022.MVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Быстрее пули
+https://hls.kinokrad.cc/hls/Bullet.Train.2022.D.TS.14OOMB/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Принцесса
+https://hls.kinokrad.cc/hls/The.Princess.2022.MVO.AVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Райское шоссе
+https://hls.kinokrad.cc/hls/Paradise.Highway.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Главная роль
+https://hls.kinokrad.cc/hls/Official.Competition.2021.D.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Не в порядке
+https://hls.kinokrad.cc/hls/Not.Okay.2022.P.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Мир Юрского периода: Господство
+https://hls.kinokrad.cc/hls/Jurassic.World.Dominion.2022.MVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Отец невесты
+https://hls.kinokrad.cc/hls/Otec.nevesty.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Выхода нет
+https://hls.kinokrad.cc/hls/No.Exit.2022.400p.WEB-DLRip.ViruseProject/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Будь моими глазами
+https://hls.kinokrad.cc/hls/See.for.Me.2021.D.BDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Пропавшая
+https://hls.kinokrad.cc/hls/Last.Seen.Alive.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Маргарита — королева Севера
+https://hls.kinokrad.cc/hls/Margarita.koroleva.Severa.2021.BDRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Смерть в прерии
+https://hls.kinokrad.cc/hls/Terror.on.the.Prairie.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Боец: Король ринга
+https://hls.kinokrad.cc/hls/Boets.Korol.ringa.2022.AMZN.WEB-DLRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Молох
+https://hls.kinokrad.cc/hls/moloh-2022-WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Тед К. Унабомбер
+https://hls.kinokrad.cc/hls/Ted.K.2021.HDRip.ELEKTRI4KA.UNIONGANG/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Рубикон
+https://hls.kinokrad.cc/hls/Rubikon.2022.D.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Серый человек
+https://hls.kinokrad.cc/hls/The.Gray.Man.2022.MVO.NF.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Чёрный телефон
+https://hls.kinokrad.cc/hls/The.Black.Phone.2021.MVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Наблюдающий
+https://hls.kinokrad.cc/hls/Watcher.2022.MVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1 group-title="Фільми 2022",Джерри и Мардж играют по-крупному
+https://hls.kinokrad.cc/hls/Dzherri.i.Mardzh.igrayut.po-krupnomu.2022.WEB-DLRip/playlist.m3u8
+
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",1
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVRFjWEJlaZp3azkVbOpWTXVUMNpXUz0kaGpWTXlENPRVV49ERBBjWUVVP:1673786129:5.58.112.192:c0ea0d83f50a324414cbb90ecb0f782c8280ebbb2a77a0acbe94ab88c0d7bb0d/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",2
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EROlWTER2aadUVx80ROlmWqt2MPR1a14kMNlXWXl0dZJTR3p1VZpXTEFUP:1673786383:5.58.112.192:6a021ba143882901d37282fd0eb7d75cf3fb8a444bba25ee33738df750048f0b/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",3
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbFFjWEN2MadUVw0ERRJTTqFkMPdVU61keVNzTUJlaZR1Z49EVW1mWXlVP:1673786432:5.58.112.192:5f55701ca27e8f954516dc7c004a761a70eec272f07018e52f523ee8a5dfe6dc/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",4
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMRdnWqFVeZpWSz0kaFhnTtZVaNJjRs1ERndnTHVkeadkWo9EVFdXWt1UP:1673786478:5.58.112.192:98503ea9ecff253975974ebedeef013e7bd70c78352bde057eef0ba8d8859011/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",5
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21UbJNTTt50aNpnRs90VK1mTy4kaOdURy0ERnhXTEllMadlUs1EVopmTElUP:1673786514:5.58.112.192:4268c3655ca646dda137518de00afe15a6867bb2ee6d5de33a84f493ba3402b3/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",6
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVZlXTqd2MNR0ay40RKtmTEp0aORVQ51kaolWTqVVeZdVV4llaBBjTEtWP:1673786553:5.58.112.192:faa98f30cb0804e36fe3a543c900664af5f57c57a4e5a1dcf48c2d165ccb2202/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",7
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1VWtmTUZ1aZRlQt9EVWpmWHV1MOdlUs1karJjWEN2dOdkRt9EVk1WTElUP:1673786592:5.58.112.192:a826a6e0d3fd648347757e951c67887d8460060c468d92f4b06974f91ef35630/720/index.m3u87
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",8
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbOlWWyoVbadVR14kerdXTqpUaZJjTspFRotWWXpVbO1mRq1ERRNzTE1UP:1673786638:5.58.112.192:d5402855c4e47e4587a58a4a252958650841e43ce3b5960fa0e333fea6d3d979/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",9
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VRRjTyUFNZ1mRr1EVBFTWUF0Ma1WVxoFVGlmWUZUbZJjSq50RatmTHVVP:1673786685:5.58.112.192:3c3cbef2376101b628652cd303bbbecdc3472776b20c51682e06f8f1cafba7f7/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",10
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbWxmTX1UNadVUy0UbFFTWqF0MZRFZrpFRrFTW6VENPdlTp50VWxWWtVUP:1673786755:5.58.112.192:e32ced2c95fc404485131b13421facea7550224f3aa24d7f84a6902cbc8e1d0e/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",11
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llaKxmTUVFMZRlWplFVZJjWqRGaadVS51kaVFTTX5UaaRVT0kleJdnWqtWP:1673786803:5.58.112.192:7b1cb9aec159c4e44dec5d92b732a29e1cab830b21b3ea755859b48c70a6287c/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",12
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERolmTEtWMZpXW35EVFVTTqJ1aORkSrplandnT6llMZpGatp1VSp2THVVP:1673786847:5.58.112.192:04ce38911eb9dbe082571e40ff5305883660cc8b5dc4ddb7559ed5fd7083c69e/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",13
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kajNTTqFFNO1mRp1karVjTyUFMN1WWy0EVnhnWEp0aNpXS59EVRJzTUlUP:1673786905:5.58.112.192:31b2f3821226a6f02b7e71d998c139815d039418528e377d0a9eee184b1aeb88/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",14
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVWp2THl0MOp2aw4UbaxWWtZ0aORURx0kaW12TEx2aNp2a39ERjVTWqtWP:1673786954:5.58.112.192:5a73e3d838511a02bb9075484de40d5c87845c22a3e471061cd6e594a42f1f56/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",15
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVkpWWyoUaaR1YyoFVZdnTERmaadVR45kajRjTqZ1aZdlWrplaCxmTqNWP:1673786998:5.58.112.192:2269b04b9ddf82bbbac1ec703119b3170784f3f9c82565e699dbce3bc63b6920/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",16
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaClWTEVVeORkTplVba1WTHlUNZJTU1oFVVVTWUV1dOpmTs5EVsxWT6FVP:1673787034:5.58.112.192:432466048cfd34e1bcd008643ea48d3756502726d8b6e9f0f3f42fa416a7b125/720/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",17
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keNFTTy40aORVSz0EVOtmWE5kaap2awo1RZRjTE5UaapWS69EVOtWTUdWP:1673787081:5.58.112.192:472ad8404a22a32ace7efc543a17f872ea2b92c58bcc5c0d4509929e794812fd/480/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",18
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVrVjT6lkeNpXWwolaJJjWtZFaNJTVzoFRnNjWqVFeN1WUy4EVVNTWUNWP:1673787164:5.58.112.192:3e0ffb7d5315d043801b860da41d530b5cfc0d87cfd951a09b111162168adab0/480/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",19
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERVNTWykVeZpnVolleJlXT6RGaOR1ay8EVNl3TXllMaRkUr5UbKxmWEVUP:1673787261:5.58.112.192:f5c9d0bee2f35856ddd8d6e523db4d4b3b7d7396e82bb167f0b70be7a766274a/index.m3u8
+#EXTINF:-1 group-title="Ну, погоди!" tvg-id="" tvg-logo="https://i.imgur.com/pVFv9EG.png",20
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1VRVTTHlFeOpGZpllMRdXW6VUMPR1Z51EVsxmWElkea1WVw4UbRFjTXlUP:1673787334:5.58.112.192:b5ef1be4c4201a815bc8e62a0207fd51eed1cbf0f40a5208eaf2923c12f18e78/index.m3u8
+
+#EXTINF:-1 group-title="Льодовиковий період UA" tvg-logo="https://i.imgur.com/327w7zQ.png",2002р UA
+https://s2.ashdi.vip/content/stream/films/lodovikovij_perod_1682/hls/720/index.m3u8
+#EXTINF:-1 group-title="Льодовиковий період UA" tvg-logo="https://i.imgur.com/2OIMkpQ.png",Глобальне потепління 2006р UA
+https://s2.ashdi.vip/content/stream/films/lodovikovij_perod_2_globalne_poteplnnya_1729/hls/720/index.m3u8
+#EXTINF:-1 group-title="Льодовиковий період UA" tvg-logo="https://i.imgur.com/bYQ0wDh.png",Ера динозаврів 2009р UA
+https://s2.ashdi.vip/content/stream/films/lodovikovij_perod_3_1756/hls/720/index.m3u8
+#EXTINF:-1 group-title="Льодовиковий період UA" tvg-logo="https://i.imgur.com/R7ebaq0.png",Континентальний дрейф 2012р UA
+https://s2.ashdi.vip/vid21/films/lodovikovij_perod_4_1757/hls/index.m3u8
+#EXTINF:-1 group-title="Льодовиковий період UA" atvg-logo="https://i.imgur.com/M4K51wO.png",Курс на зіткнення 2016р UA
+https://s2.ashdi.vip/content/stream/films/lodovikovij_perod_kurs_na_ztknennya_1900/hls/720/index.m3u8
+#EXTINF:-1 group-title="Льодовиковий період UA"tvg-logo="https://i.imgur.com/7gGefrM.png",Пригоди Бака 2022р UA
+https://qeruya.cyou/vid21/films/the_ice_age_adventures_of_buck_wild_2022_ukreng_sub.eng_webdl_1080p_hurtom_52408/hls/index.m3u8
+
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/PIjz0QY.png",Красуня і чудовисько UA (1991)
+https://jordkym.cyou/new4/beauty_and_the_beast_1991_bdrip_1080p_h.265_ukr_eng_hurtom_6486/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/vZt3Tqv.png",Русалонька UA (1989)
+https://nerklq.cyou/content/stream/new4/1._the_little_mermaid_1989_bdrip_1080p_h.265_ukr_eng_hurtom_6807/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/8SWlFql.png",Русалонька 2: Повернення в море UA (2000)
+https://qeruya.cyou/content/stream/new4/2._the_little_mermaid_ii._return_to_the_sea_2000_bdrip_1080p_h.265_ukr_eng_hurtom_6808/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/SPwS4Gp.png",Русалонька 3: Дитинство Аріель UA (2008)
+https://nerklq.cyou/content/stream/new4/3._the_little_mermaid._ariels_beginning_2008_bdrip_1080p_h.265_ukr_eng_hurtom_6809/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період 1 (2002)
+https://s2.ashdi.vip/vid21/films/lodovikovij_perod_1682/hls/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період 2: Глобальное потепление (2006)
+https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/12/WLEO2J4V/5CI6TJ5E.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період 3: Эра динозавров (2009)
+https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/07/NKO5GECQ/S2TN5WYM.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період 4: Континентальный дрейф (2012)
+https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/VXFLU7KU/3ZMYWZO5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період 5: Столкновение неизбежно (2016)
+https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/Z27Z66NL/I37H5HE3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період: Гигантское Рождество (2011)
+https://hye1eaipby4w.takedwn.ws/12_15_19/12/15/12/OcCVo0ET/1080_MN6PInXq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період: Погоня за яйцами (2016)
+https://hye1eaipby4w.takedwn.ws/10_22_19/10/22/11/78eZMWJj/1080_2tAV6yrA.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період: Пригоди Бака UA (2022)
+https://qeruya.cyou/vid21/films/the_ice_age_adventures_of_buck_wild_2022_ukreng_sub.eng_webdl_1080p_hurtom_52408/hls/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/327w7zQ.png",Льодовиковий період:Приключения Бака (2022)
+https://hls-hd.kinokrad.co/hlshd/ledn.period.prikl.paka.2022.hd.720p/playlist.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/aCQZSxS.png",Грінч
+https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/18/C7HXML3H/G4JVLSEZ.mp4/master.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/Esce5kP.png",Холоде серце2 (2019)
+https://hye1eaipby4w.takedwn.ws/05_07_21/05/07/01/CV4AN5JB/ZKKDYWKB.mp4/master.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/zteZO0q.png.png",Фердинанд
+https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/16/OFCEOVLW/ECUO5SAR.mp4/master.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/jxOvhTM.png",Энканто (2021)
+https://hye1eaipby4w.takedwn.ws/03_28_22/03/28/13/CBBXOVNI/RBPGSRPU.mp4/master.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/aYLU8Jf.png",Феї:Тайна країни драконів (2019)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-400/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290RJdnTqF0dapWSz8EVjRzTUVUeOdkTplFVFJjTUFEMORFZqlleKpWWXlUP:1657632403:5.58.112.192:c4b0d8f0f8b679f765f51fef7f0b73534e470775653210954b18099863c69740/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" aspect-ratio="14:9" tvg-logo="https://i.imgur.com/ac22ytQ.png",Кролик Питер
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVKxWWqFFePRlQqllMVhnTyYVaNdUT31EVNpXWtVFNPRVTzkVbO1mWXlVP:1660318025:5.58.112.192:d0ba317d788b3e390b7b6bd3d96701e070581588e8d7f789a138d30438d73eb5/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/ZeTkAsK.png",Мадагаскар 1 UA (2005)
+https://s2.ashdi.vip/content/stream/films/01._madagascar_2005_bdrip_1080p_h.265_3xukr_eng_hurtom_79526/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/lHyG7JD.png",Мадагаскар 2 UA (2008)
+https://s2.ashdi.vip/content/stream/films/madagascar._escape_2_africa_2008_ukr_eng_com._sub__ukr_eng_bdrip_1080p_hurtom_1680/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/hJ9MqfQ.png",Мадагаскар 3 UA (2012)
+https://hye1eaipby4w.takedwn.ws/06_17_21/06/17/17/BM7P4RZX/UAWCZCYN.mp4/master.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/f4rkiMd.png",Шалений Мадагаскар UA (2013)
+https://s2.ashdi.vip/content/stream/films/03._madly_madagascar_2013_webdlrip_1080p_h.265_2xukr_eng_hurtom_79525/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/afQNpuE.png",1-1
+https://blackpearl.tortuga.wtf/content/stream/serials/ultimate.spiderman/s01/ultimate.spiderman.s01e01.ledoyen.dub_84039/hls/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/afQNpuE.png",1-2
+https://blackpearl.tortuga.wtf/content/stream/serials/ultimate.spiderman/s01/ultimate.spiderman.s01e02.ledoyen.dub_84040/hls/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/WrOXanM.png",1-3
+https://blackpearl.tortuga.wtf/content/stream/serials/ultimate.spiderman/s01/ultimate.spiderman.s01e03.ledoyen.dub_84041/hls/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/WrOXanM.png",1-4
+https://blackpearl.tortuga.wtf/content/stream/serials/ultimate.spiderman/s01/ultimate.spiderman.s01e04.ledoyen.dub_84042/hls/720/index.m3u8
+#EXTINF:-1 group-title="Мультфільми" tvg-logo="https://i.imgur.com/WrOXanM.png",1-5
+https://blackpearl.tortuga.wtf/content/stream/serials/ultimate.spiderman/s01/ultimate.spiderman.s01e05.ledoyen.dub_84043/hls/720/index.m3u8
+
+#EXTINF:-1 group-title="Міньони"tvg-logo="https://i.imgur.com/HFRyn28.png",Мінь:Грю(2022)UA
+https://hye1eaipby4w.takedwn.ws/10_15_22/10/15/23/IMKGEUII/BWSAGPXU.mp4/master.m3u8
+#EXTINF:-1 group-title="Міньони" aspect-ratio="" audio-track="ua" tvg-logo="https://i.imgur.com/HFRyn28.png",Міньони: Грювитация (2022) 
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERstmWqdGMZpXWy4kMVlnWqVUNZpmSr1keBJTW6tmMPdUR4p1RRVTWqFUP:1662993135:5.58.112.192:363027039bfb7ed34c4140790cc0c24cfebed42c445f6c0598cf7f801ff43c45/index.m3u8
+#EXTINF:-1 group-title="Міньони" tvg-logo="https://i.imgur.com/oFivblu.png",Міньони(2015)UA
+https://hye1eaipby4w.takedwn.ws/06_17_21/06/17/18/BFFMFUE4/XGJLD7Q2.mp4/master.m3u8
+#EXTINF:-1 group-title="Міньони" tvg-logo="https://i.imgur.com/oFivblu.png",Міньони(2015)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llaZRjWEVlMapmSqlVbJVTTHlVMZRVRyo1VRRjTqJEbPRVS6l1VNpXTUVVP:1657449912:5.58.112.192:fbb13b629a6a12f5aa9d87c0f1f6e7484e3afa9400888e995f3f884e7e0a2e45/720/index.m3u8
+#EXTINF:-1 group-title="Міньони" aspect-ratio="14:9" audio-track="" tvg-logo="https://i.imgur.com/HFRyn28.png",Міньони: Грювитация (2022)UA
+https://kraken.tortuga.wtf/content/stream/films/minions_the_rise_of_gru_2022_bdrip_1080p_80847/hls/index.m3u8
+#EXTINF:-1 group-title="Міньони" aspect-ratio="" audio-track="ua" tvg-logo="https://i.imgur.com/HFRyn28.png",Міньони: Грювитация (2022) 
+https://cdn4502.vb17121coramclean.pw/stream2/b-401/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERstmWqdGMZpXWy4kMVlnWqVUNZpmSr1keBJTW6tmMPdUR4p1RRVTWqFUP:1662993135:5.58.112.192:363027039bfb7ed34c4140790cc0c24cfebed42c445f6c0598cf7f801ff43c45/index.m3u8
+#EXTINF:-1 group-title="Міньони" tvg-logo="https://i.imgur.com/oFivblu.png",Міньони(2015)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn-s/8ab0928191bba9e112f04614be1bf0f2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llaZRjWEVlMapmSqlVbJVTTHlVMZRVRyo1VRRjTqJEbPRVS6l1VNpXTUVVP:1657449912:5.58.112.192:fbb13b629a6a12f5aa9d87c0f1f6e7484e3afa9400888e995f3f884e7e0a2e45/720/index.m3u8
+
+#EXTINF:-1 group-title="Тачки" tvg-logo="https://i.imgur.com/IruGCiH.png",Боб-будівельник: Мегамашини
+https://s2.ashdi.vip/vid21/films/bob_budvelnik_1915/hls/index.m3u8
+#EXTINF:-1 group-title="Тачки" tvg-logo="https://i.imgur.com/xccHQgY.png",Тачки1 UA
+https://hye1eaipby4w.takedwn.ws/05_08_21/05/08/02/QXXHSIRW/6D42NVI5.mp4/master.m3u8
+#EXTINF:-1 group-title="Тачки" tvg-logo="https://i.imgur.com/xccHQgY.png",Тачки2 UA
+https://hye1eaipby4w.takedwn.ws/05_08_21/05/08/04/TVSJPCAP/FJZTYPPO.mp4/master.m3u8
+#EXTINF:-1 group-title="Тачки" tvg-logo="https://i.imgur.com/xccHQgY.png",Тачки3 UA
+https://hye1eaipby4w.takedwn.ws/05_08_21/05/08/02/VQUCHV2W/VYPR63NE.mp4/master.m3u8
+
+#EXTINF:-1 group-title="Аладдін" aspect-ratio="" tvg-logo="https://i.imgur.com/XLss9d4.png.png",Аладдін (1992)
+https://cdn4572.vb17121coramclean.pw/stream2/cdn0/c424945afdc90a9a8345369f1b31f2d9/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZ3TXpkaa1WS61kaRpnWUFENZJjTq5keBNTWqVENNJTW5llaVdXTXVENZpGbolVbVdnWqZlaPREasl1VFJTTHplaNp2Y3pFVsxmTUF1dZpnQr50VZd3TR1TP:1671982205:77.111.247.51:a0dbbdad9feb4dbd6cdefc190b9de7fc9dc7240fdd964641232d410d2ca56dfe/index.m3u8
+#EXTINF:-1 group-title="Аладдін" aspect-ratio="" tvg-logo="https://i.imgur.com/DSLGgKW.png",Аладдін UA (1992)
+https://qeruya.cyou/content/stream/new4/aladdin_1992_bdrip_1080p_h.265_ukr_eng_6906/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Аладдін" aspect-ratio="" tvg-logo="https://i.imgur.com/5gVDZo6.png",Аладдін 2: Повернення Джафара UA (1994)
+https://qeruya.cyou/content/stream/new3/ufdub.com_aladn_povernennya_dzhafara__flm_14964/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Аладдін" aspect-ratio="" tvg-logo="https://i.imgur.com/Zj8OLyu.png",Аладдін і король розбійників UA (1996)
+https://nerklq.cyou/content/stream/new3/aladdin_and_the_king_of_thieves_1996_bdrip_1080p_h.265_ukr_eng_hurtom_15115/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Дивовижний Моріс" aspect-ratio="" tvg-logo="https://i.imgur.com/8Tb1hqI.png",Дивовижний Моріс (2022)
+https://ab.takedwn.ws/12_22_22/12/22/19/3VMAMK33/XZ4ALU5S.mp4/master.m3u8
+#EXTINF:-1 group-title="Велика мандрівка" aspect-ratio="" tvg-logo="https://i.imgur.com/w7QFOyK.png",Велика мандрівка UA (2019)
+https://nerklq.cyou/content/stream/new2/the.big.trip.2019.1080p.bdrip.sergiyko_29427/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Кіт у чоботях" aspect-ratio="" tvg-logo="https://i.imgur.com/JpjkQBL.png",Кіт у чоботях UA (2011)
+https://qeruya.cyou/content/stream/new4/puss_in_boots_2011_bdrip_1080p_ukr.eng_sub_ukr.eng_13784/hls/720/index.m3u8
+#EXTINF:-1 group-title="Кіт у чоботях" aspect-ratio="" tvg-logo="https://i.imgur.com/2Yvr0Ec.png",Кіт у чоботях: Троє чортенят UA (2011)
+https://qeruya.cyou/vid21/films/8._puss_in_boots__the_three_diablos_2012_bdrip_1080p_h.265_3xukr_eng_hurtom_54376/hls/index.m3u8
+#EXTINF:-1 group-title="Кіт у чоботях" aspect-ratio="" tvg-logo="https://i.imgur.com/DXAs3wz.png",Кіт у чоботях 2 UA: Останнє бажання (2022)
+https://s2.ashdi.vip/content/stream/new/puss_in_boots_84581/hls/720/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" aspect-ratio="" tvg-logo="https://i.imgur.com/lcXNPG3.png",Губка Боб
+https://qeruya.cyou/content/stream/films/the_spongebob_squarepants_movie_2004_bdrip_1080r_2xukr_enghurtom_58737/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" aspect-ratio="" tvg-logo="https://i.imgur.com/JYO2H2L.png",Губка Боб  Втеча Губки
+https://qeruya.cyou/content/stream/new3/the_spongebob_movie_sponge_on_the_run_ukr_eng_webrip_1080p_hurtom_39172/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" aspect-ratio="" tvg-logo="https://i.imgur.com/r5umiRi.png",Губка Боб  Життя на суші
+https://nerklq.cyou/content/stream/new4/the_spongebob_movie__sponge_out_of_water_2015_bdripavc_ukr_eng_hurtom_11791/hls/720/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-1
+https://qeruya.cyou/vid15/serials/spongebob_s10/s10e01.whirlybrainsmermaidpants.1080p.webrip_11022/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-2
+https://nerklq.cyou/content/stream/serials/spongebob_s10/s10e02.unreal_estatecode_yellow.1080p.webrip_11023/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-3
+https://qeruya.cyou/content/stream/serials/spongebob_s10/s10e03.mimic_madnesshouse_worming.1080p.webrip_11024/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-4
+https://nerklq.cyou/content/stream/serials/spongebob_s10/s10e04.snooze_you_losekrusty_katering.1080p.webrip_11025/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-5
+https://qeruya.cyou/vid15/serials/spongebob_s10/s10e05.spongebobs_placeplankton_gets_the_boot.1080p.webrip_11026/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-6
+https://nerklq.cyou/content/stream/serials/spongebob_s10/s10e06.life_insuranceburst_your_bubble.1080p.webrip_11027/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-7
+https://qeruya.cyou/content/stream/serials/spongebob_s10/s10e07.plankton_retirestrident_trouble.1080p.webrip_11028/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-8
+https://nerklq.cyou/content/stream/serials/spongebob_s10/s10e08.the_incredible_shrinking_spongesportz.1080p.webrip_11029/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-9
+https://qeruya.cyou/content/stream/serials/spongebob_s10/s10e09.the_getawaylost_and_found.1080p.webrip_11030/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-10
+https://nerklq.cyou/content/stream/serials/spongebob_s10/s10e10.patricks_couponout_of_the_picture.1080p.webrip_11031/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",10-11
+https://qeruya.cyou/content/stream/serials/spongebob_s10/s10e11.feral_friendsdont_wake_patrick.1080p.webrip_11032/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-1
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e01.cave_dwelling_spongethe_clam_whisperer.1080p.webrip_11033/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-2
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e02.spot_returnsthe_check_up.1080p.webrip_11034/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-3
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e03.spin_the_bottletheres_a_sponge_in_my_soup.1080p.webrip_11035/hls/720/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-4
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e04.man_ray_returnslarry_the_floor_manager.1080p.webrip_11036/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-5
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e05.the_legend_of_bookini_bottom.1080p.webrip_11037/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-6
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e06.no_pictures_pleasestuck_on_the_roof.1080p.webrip_11038/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-7
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e07.krabby_patty_creature_featureteachers_pests.1080p.webrip_11039/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-8
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e08.sanitation_insanitybunny_hunt.1080p.webrip_11040/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-9
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e09.squid_noirscavenger_pants.1080p.webrip_11041/hls/720/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-10
+https://qeruya.cyou/vid15/serials/spongebob_s11/s11e10.cuddle_e._hugspat_the_horse.1080p.webrip_11042/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-11
+https://nerklq.cyou/vid15/serials/spongebob_s11/s11e11.chatterbox_garydont_feed_the_clowns.1080p.webrip_11043/hls/index.m3u8?rand=0.7545081886641853
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-12
+https://qeruya.cyou/vid15/serials/spongebob_s11/s11e12.drive_happyold_man_patrick.1080p.webrip_11044/hls/index.m3u8?rand=0.6017624066240308
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-13
+https://nerklq.cyou/vid15/serials/spongebob_s11/s11e13.funsized_friendsgrandmums_the_word.1080p.webrip_11045/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-14
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e14.doodle_dimensionmoving_bubble_bass.1080p.webrip_11046/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-15
+https://nerklq.cyou/vid15/serials/spongebob_s11/s11e15.high_sea_divingbottle_burglars.1080p.webrip_11047/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-16
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e16.my_legink_lemonade.1080p.webrip_11048/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-17
+https://nerklq.cyou/vid15/serials/spongebob_s11/s11e17.mustard_o_mineshopping_list.1080p.webrip_11049/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-18
+https://qeruya.cyou/vid15/serials/spongebob_s11/s11e18.whale_watchingkrusty_kleaners.1080p.webrip_11050/hls/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-19
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e19.patnocchiochefbob.1080p.webrip_11051/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-20
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e20.plankton_paranoialibrary_cards.1080p.webdl_11052/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-21
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e21.call_the_copssurf_n_turf.1080p.webdl_11053/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-22
+https://qeruya.cyou/content/stream/serials/spongebob_s11/s11e22.goons_on_the_moon.1080p.webdl_11054/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-23
+https://nerklq.cyou/content/stream/serials/spongebob_s11/s11e23.appointment_tvkarens_virus.1080p.webdl_11055/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-24
+https://nerklq.cyou/content/stream/new4/s11e24.the_grill_is_gonethe_night_patty.1080p.webdl_11897/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-25
+https://qeruya.cyou/content/stream/new4/s11e25.bubbletowngirls_night_out.1080p.webdl_11788/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Губка Боб" tvg-logo="https://i.imgur.com/hIH4cDQ.png",11-26
+https://nerklq.cyou/content/stream/new4/s11e26.squirrel_jellythe_string.1080p.webdl_11787/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/kO8c99m.png",Щенячий патруль у кіно (2021)
+https://qeruya.cyou/content/stream/films/paw_patrol_the_movie_2021_webdl_1080p_ukr_eng_hurtom_49478/hls/720/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/rvpTgYj.png",Щенячий патруль: Ульотна допомога (2020)
+https://s2.ashdi.vip/content/stream/films/paw_patrol_jet_to_the_rescue_2020_webdlripavc_ukr.eng_hurtom_68898/hls/720/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/ULUcMuz.png",Щенячий патруль: скоріше поспішаємо на допомогу (2019)
+https://s2.ashdi.vip/content/stream/films/paw_patrol._ready_race_rescue_2019_webdlripavc_ukr.eng_sub_eng_hurtom_68897/hls/720/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/4Af3Qze.png",Щенячий патруль: Мегацуценята (2017)
+https://s2.ashdi.vip/content/stream/serials/paw_patrol._mighty_pups_2018_webdlripavc_ukr.eng_hurtom_69652/hls/720/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-1
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e01.plusplus.dub_8334/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-2
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e02.plusplus.dub_8335/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-3
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e03.plusplus.dub_8336/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-4
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e04.plusplus.dub_8337/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-5
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e05.plusplus.dub_8338/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-6
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e06.plusplus.dub_8339/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-7
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e07.plusplus.dub_8340/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-8
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e08.plusplus.dub_8341/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-9
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e09.plusplus.dub_8342/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-10
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e10.plusplus.dub_8343/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-11
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e11.plusplus.dub_8344/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-12
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e12.plusplus.dub_8345/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-13
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e13.plusplus.dub_8346/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-14
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e14.plusplus.dub_8347/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-15
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e15.plusplus.dub_8348/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-16
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e16.plusplus.dub_8349/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-17
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e17.plusplus.dub_8350/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-18
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e18.plusplus.dub_8351/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-19
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e19.plusplus.dub_8352/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-20
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e20.plusplus.dub_8353/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-21
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e21.plusplus.dub_8354/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-22
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e22.plusplus.dub_8355/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-23
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e23.plusplus.dub_8356/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-24
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e24.plusplus.dub_8357/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-25
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e25.plusplus.dub_8358/hls/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/euWjADU.png",4-26
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s04e26.plusplus.dub_8359/hls/index.m3u
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-1
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e01.pups_save_the_kitty_rescue_crewpups_save_an_ostrich.1080p.webrip_10548/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-2
+https://blackpearl.tortuga.wtf/content/stream/serials/paw.patrol.s05e02.plusplus.dub_8077/hls/480/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-3
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e03.sea_patrol.pups_save_the_sunken_slooppups_save_a_wiggly_whale.1080p.webrip_10550/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-4
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e04.pups_save_a_high_flying_skyepups_go_for_the_gold.1080p.webrip_10551/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-5
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e05.pups_save_an_extreme_lunchpups_save_a_cat_burglar.1080p.webrip_10552/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-6
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e06.sea_patrol.pups_save_the_flying_diving_bellpups_save_a_soggy_farm.1080p.webrip_10553/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-7
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e07.pups_save_the_butterfliespups_save_an_underground_chicken.1080p.webrip_10554/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-8
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e08.pups_save_the_bookmobilepups_save_heady_humdinger.1080p.webrip_10555/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-9
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e09.sea_patrol._pups_save_the_pirated_sea_patroller.1080p.webrip_10556/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-10
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e10.pups_save_the_pawpawspups_save_a_popped_top.1080p.webrip_10557/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-11
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e11.ultimate_rescue._pups_save_the_royal_kitties.1080p.webrip_10558/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-12
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e12.pups_save_the_snowshoeing_goodwayspups_save_a_duck_pond.1080p.webrip_10559/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-13
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e13.sea_patrol._pups_save_tilly_turbotpups_save_an_upset_elephant.1080p.webrip_10560/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-14
+https://nerklq.cyou/content/stream/serials/paw_patrol_5/s05e14.ultimate_rescue._pups_save_the_tigers.1080p.webrip_10561/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Щенячий патруль" tvg-logo="https://i.imgur.com/qDccP9d.png",5-15
+https://qeruya.cyou/content/stream/serials/paw_patrol_5/s05e15.rocky_saves_himselfpups_and_the_mystery_of_the_driverless_snow_cat.1080p.webrip_10562/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",111
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleVBjTUFkMNpWVy0kenNzTUFUNORUW55UbRlXWqNGMNdlRqlFVSxmTElUP:1678553626:77.111.244.63:788ad9d9bbb90255643ffb1ef4bf05a87dcfeca99bf5ac4d57eaf0d150ebec70/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",112
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llMalWTEZUaNpWV0kFVFBjTyYVbNpXV3p1RahmWUpEaaRlWs1keVdnWX1UP:1678553693:77.111.244.63:8560735bb4bc3dc83425302a3e0d4eb11dfc6828cf545c817903f6ea5a2d584a/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",113
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25keOxWTHVUMadlVs5kMWpmWXlEePdkVtlFVaxWWXVUMOpWT490RRBzTXlVP:1678553754:77.111.244.63:6f9fbc3d98cce1eeb434a73b1f49c700c46aa3ffd96d4adcc3f3d00b483d9097/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",114
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRnFjTyUUMPRVU41EVjNjWqhGaZpWRxklerpnWEF0dPRVV41EVJpXTXlVP:1678553818:77.111.244.63:cebc61dc658cff79ecbcd15270262f69ef0b68417dff525e9ea1573c79effed1/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",115
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRClmWtF1dNdVUzo1RGxWWUZUaN1mVt1EVRFzTUl0MOp3Y3lleJJjTEFVP:1678553862:77.111.244.63:2be78b21948ebfbc8707b700f598eea006ac95142a36ee6eaf7d9e8fe193c71b/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",116
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVjRTW6l0MNRkWr5keFRTTUtGMap2Zy0EVBFTWXJ1aPdUR100VRJjWHVUP:1678553911:77.111.244.63:7a5b6a9f67f32b31f6cdf7a465f1c92a69d989a1f8f8f60ad1b37d9d1fee0b8d/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",117
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMNpnTqV1dadUW04kajJTWXVEeOdUWzolaGpWTtVFMORUQ3lFVGxmTUVVP:1678553960:77.111.244.63:0f3620e295c4fe8c8e4375a5d7e9e034180adc69d9eb2f5848b8876e688270dd/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",118
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVshWWXZEbNdlTo1EVOxmTEFleOdlTr1ERW1WT6hGbORlUolFVrBTWUdWP:1678554276:77.111.244.63:fe9c4b1f9e2485e8e4296c0287bcd994899bc0c12984927900cc803965b97bb1/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",119
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaJhXWyY0aZdlTtlFVKlmWtFVNapWR3lVbS1mWHZUaORVV0klMFVjTqtWP:1678554143:77.111.244.63:4bf0324f18c12178155d7e7f559b2a44441fe973124b8f14d4c838bf5e74775e/720/index.m3u8
+#EXTINF:-1 group-title="Клон" tvg-id="" tvg-logo="https://i.imgur.com/WwQlPZy.png",120
+https://cdn4502.vb17123filippaaniketos.pw/stream2/b-401/99d40fa8c2d0200ee06e7c5cafb509cd/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llaRpnTqhGbapWTw4UbZlnTElVeNpnQq5kerRjWX5UbZ1WV140VJpXT6VVP:1678554338:77.111.244.63:42d8cf75b7a1ed86b3a5b45e3e81090400e7c783b841b9f9b5069c85d926693b/480/index.m3u8
+
+#EXTINF:-1 group-title="Ескобар (2017)" tvg-logo="https://i.imgur.com/uIsUCa1.png",Ескобар (2017)
+https://s2.ashdi.vip/vid21/films/eskobar_247/hls/index.m3u8
+#EXTINF:-1 group-title="Пабло Эскобар, хозяин зла(2012)" tvg-logo="https://i.imgur.com/ZFUPrAL.png",1
+https://2f9-83a-2300g0.streamalloha.live/hs/45/1678206642/kjRF9ZQD4Xn1EnRs_0aH-g/888/605888/master.m3u8
+#EXTINF:-1 group-title="Пабло Эскобар, хозяин зла(2012)" tvg-logo="https://i.imgur.com/ZFUPrAL.png",2
+https://d0b-000-2600g0.streamalloha.live/hs/45/1678211646/4KxNi1TQWQHeIZo4bUlvnA/892/605892/master.m3u8
+#EXTINF:-1 group-title="Пабло Эскобар, хозяин зла(2012)" tvg-logo="https://i.imgur.com/ZFUPrAL.png",3
+https://950-8ca-2500g0.streamalloha.live/hs/45/1678212590/87kzQ-afRNKEVdVMyn8yIg/895/605895/master.m3u8
+#EXTINF:-1 group-title="Пабло Эскобар, хозяин зла(2012)" tvg-logo="https://i.imgur.com/ZFUPrAL.png",4
+https://9bc-a3e-2200g0.streamalloha.live/hs/45/1678212855/_Eh1X3Q7ImeRY3k4PBFE2w/902/605902/master.m3u8
+#EXTINF:-1 group-title="Пабло Эскобар, хозяин зла(2012)" tvg-logo="https://i.imgur.com/ZFUPrAL.png",5
+https://bbf-384-311g0.streamalloha.live/hs/45/1678212960/fdhf0D2821LKrgo4QXDdvg/907/605907/master.m3u8
