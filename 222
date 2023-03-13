@@ -1,30 +1,29 @@
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К1 HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/270.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К2 HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/324.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ТЕТ HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/338.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ОЦЕ HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/329.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТН HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/326.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Кус-кус HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/195.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",36.6 HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/331.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",FILMUADRAMA HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/273.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 1 HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/98.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 2 HD
-#EXTGRP:Национальные
-http://myott.top/stream/K3TLKSX4EA/99.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTINF:-1 group-title="RTPM_2",РЕН ТВ HD
+rtmp://5.182.231.251//2024
+#EXTINF:-1 group-title="RTPM_2",ДИКАЯ ОХОТА
+rtmp://5.182.231.251//2004
+#EXTINF:-1 group-title="RTPM_2",ДИКАЯ РЫБАЛКА
+rtmp://5.182.231.251//2005
+#EXTINF:-1 group-title="RTPM_2",DTX
+rtmp://5.182.231.251//2006
+#EXTINF:-1 group-title="RTPM_2",ОХОТА И РЫБАЛКА
+rtmp://5.182.231.251//2019
+#EXTINF:-1 group-title="RTPM_2",ТЕХНО 24
+rtmp://5.182.231.251//2023
+#EXTINF:-1 group-title="RTPM_2",H2 HD
+rtmp://5.182.231.251//2033
+#EXTINF:-1 group-title="RTPM_2",ТЕЛЕПУТЕШЕСТВИЯ
+rtmp://5.182.231.251//2051
+#EXTINF:-1 group-title="RTPM_2",ЖИВАЯ ПРИРОДА HD
+rtmp://5.182.231.251//2074
+#EXTINF:-1 group-title="RTPM_2",ЖИВАЯ ПЛАНЕТА
+rtmp://5.182.231.251//2101
+#EXTINF:-1 group-title="RTPM_2",Investigation Discovery HD
+rtmp://5.182.231.251//2102
+#EXTINF:-1 group-title="RTPM_2",Investigation Discovery
+rtmp://5.182.231.251//2085
+#EXTINF:-1 group-title="RTPM_2",ГЛАЗАМИ ТУРИСТА HD
+rtmp://5.182.231.251//2104
+#EXTINF:-1 group-title="RTPM_2",МИР ВОКРУГ HD
+rtmp://5.182.231.251//2134
